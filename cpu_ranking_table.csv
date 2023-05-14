@@ -1,0 +1,1451 @@
+process_dt,ranking,cpu,manufacturer,gpu,score
+2023-03-07,1,A16 Bionic,Apple,Apple GPU,99
+2023-03-07,2,Snapdragon 8 Gen 2,Qualcomm,Adreno 740,96
+2023-03-07,3,Dimensity 9200,MediaTek,Mali-G715 Immortalis MC11,95
+2023-03-07,4,A15 Bionic,Apple,Apple GPU,94
+2023-03-07,5,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,93
+2023-03-07,6,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,93
+2023-03-07,7,Dimensity 9000,MediaTek,Mali-G710,91
+2023-03-07,8,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,90
+2023-03-07,9,A14 Bionic,Apple,Apple GPU,86
+2023-03-07,10,Exynos 2200,Samsung,Samsung Xclipse 920,85
+2023-03-07,11,Snapdragon 888 Plus,Qualcomm,Adreno 660,84
+2023-03-07,12,Dimensity 8200,MediaTek,Mali-G610 MC6,83
+2023-03-07,13,Dimensity 8100,MediaTek,Mali-G610 MC6,83
+2023-03-07,14,Snapdragon 888,Qualcomm,Adreno 660,83
+2023-03-07,15,Tensor G2,Google,Mali-G710 MP7,81
+2023-03-07,16,Google Tensor,Google,Mali-G78 MP20,79
+2023-03-07,17,Exynos 2100,Samsung,Mali-G78 MP14,78
+2023-03-07,18,Kirin 9000,HiSilicon,Mali-G78 MP24,78
+2023-03-07,19,A13 Bionic,Apple,Apple A13 Bionic GPU,77
+2023-03-07,20,Dimensity 7200,MediaTek,Mali-G610 MC4,73
+2023-03-07,21,Dimensity 8000,MediaTek,Mali-G610 MC6,72
+2023-03-07,22,Snapdragon 870,Qualcomm,Adreno 650,72
+2023-03-07,23,Kirin 9000E,HiSilicon,Mali-G78 MP22,72
+2023-03-07,24,Exynos 1080,Samsung,Mali-G78 MP10,72
+2023-03-07,25,Snapdragon 865 Plus,Qualcomm,Adreno 650,72
+2023-03-07,26,Dimensity 1300,MediaTek,Mali-G77 MC9,71
+2023-03-07,27,Dimensity 1200,MediaTek,Mali-G77 MC9,71
+2023-03-07,28,Dimensity 1100,MediaTek,Mali-G77 MC9,68
+2023-03-07,29,Snapdragon 865,Qualcomm,Adreno 650,68
+2023-03-07,30,Exynos 990,Samsung,Mali-G77 MP11,66
+2023-03-07,31,A12 Bionic,Apple,Apple A12 Bionic GPU,64
+2023-03-07,32,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,63
+2023-03-07,33,Snapdragon 860,Qualcomm,Adreno 640,62
+2023-03-07,34,Snapdragon 855 Plus,Qualcomm,Adreno 640,62
+2023-03-07,35,Snapdragon 7 Gen 1,Qualcomm,Adreno 644,61
+2023-03-07,36,Kirin 990 (5G),HiSilicon,Mali G76 MP16,61
+2023-03-07,37,Dimensity 930,MediaTek,IMG BXM-8-256,60
+2023-03-07,38,Snapdragon 778G Plus,Qualcomm,Adreno 642L,59
+2023-03-07,39,Snapdragon 780G,Qualcomm,Adreno 642,59
+2023-03-07,40,Snapdragon 855,Qualcomm,Adreno 640,59
+2023-03-07,41,Exynos 1380,Samsung,Mali-G68 MP5,58
+2023-03-07,42,Snapdragon 778G,Qualcomm,Adreno 642L,58
+2023-03-07,43,Kirin 990 (4G),HiSilicon,Mali G76 MP16,57
+2023-03-07,44,Dimensity 1080,MediaTek,Mali-G68 MC4,56
+2023-03-07,45,Dimensity 920,MediaTek,Mali-G68 MC4,56
+2023-03-07,46,Exynos 9825,Samsung,Mali G76 MP12,56
+2023-03-07,47,Dimensity 1000,MediaTek,Mali-G77 MP9,55
+2023-03-07,48,Exynos 9820,Samsung,Mali G76 MP12,55
+2023-03-07,49,Dimensity 1000L,MediaTek,Mali-G77 MC9,54
+2023-03-07,50,Kirin 985,HiSilicon,Mali-G77 MP8,52
+2023-03-07,51,Kirin 820,HiSilicon,Mali-G57 MP6,52
+2023-03-07,52,Kirin 980,HiSilicon,Mali G76 MP10,52
+2023-03-07,53,Exynos 1330,Samsung,Mali G68 MP2,51
+2023-03-07,54,Dimensity 900,MediaTek,Mali-G68 MC4,51
+2023-03-07,55,Exynos 1280,Samsung,Mali-G68 MP4,50
+2023-03-07,56,Dimensity 820,MediaTek,Mali-G57 MC5,50
+2023-03-07,57,Snapdragon 768G,Qualcomm,Adreno 620,50
+2023-03-07,58,A11 Bionic,Apple,Apple GPU,50
+2023-03-07,59,Snapdragon 845,Qualcomm,Adreno 630,48
+2023-03-07,60,Snapdragon 695,Qualcomm,Adreno 619,47
+2023-03-07,61,Dimensity 810,MediaTek,Mali-G57 MC2,46
+2023-03-07,62,Exynos 980,Samsung,Mali G76 MP5,46
+2023-03-07,63,Snapdragon 765G,Qualcomm,Adreno 620,46
+2023-03-07,64,Snapdragon 765,Qualcomm,Adreno 620,46
+2023-03-07,65,Dimensity 800U,MediaTek,Mali-G57 MC3,45
+2023-03-07,66,Exynos 9810,Samsung,Mali-G72MP18,45
+2023-03-07,67,Snapdragon 4 Gen 1,Qualcomm,Adreno 619,44
+2023-03-07,68,Helio G99,MediaTek,Mali-G57 MC2,44
+2023-03-07,69,Snapdragon 750G,Qualcomm,Adreno 619,44
+2023-03-07,70,Kirin 810,HiSilicon,Mali-G52 MP6,44
+2023-03-07,71,Exynos 880,Samsung,Mali G76 MP5,43
+2023-03-07,72,Dimensity 800,MediaTek,Mali-G57 MC4,43
+2023-03-07,73,Snapdragon 732G,Qualcomm,Adreno 618,42
+2023-03-07,74,Dimensity 720,MediaTek,Mali-G57 MC3,42
+2023-03-07,75,Dimensity 700,MediaTek,Mali-G57 MC2,41
+2023-03-07,76,Helio G95,MediaTek,Mali-G76 3EEMC4,41
+2023-03-07,77,Snapdragon 690,Qualcomm,Adreno 619L,41
+2023-03-07,78,Helio G90,MediaTek,Mali-G76 MC4,41
+2023-03-07,79,Snapdragon 720G,Qualcomm,Adreno 618,41
+2023-03-07,80,Snapdragon 730G,Qualcomm,Adreno 618,41
+2023-03-07,81,Snapdragon 480,Qualcomm,Adreno 619,40
+2023-03-07,82,Snapdragon 730,Qualcomm,Adreno 618,40
+2023-03-07,83,Helio G96,MediaTek,Mali G57 MC2,39
+2023-03-07,84,Helio G90T,MediaTek,Mali-G76 MC4,39
+2023-03-07,85,Snapdragon 835,Qualcomm,Adreno 540,39
+2023-03-07,86,Snapdragon 480 Plus,Qualcomm,Adreno 619,38
+2023-03-07,87,A10 Fusion,Apple,PowerVR GT7600,38
+2023-03-07,88,Snapdragon 680,Qualcomm,Adreno 610,37
+2023-03-07,89,Kirin 970,HiSilicon,Mali G72 MP12,37
+2023-03-07,90,Exynos 8895,Samsung,Mali-G71 MP20,37
+2023-03-07,91,Snapdragon 712,Qualcomm,Adreno 616,36
+2023-03-07,92,Snapdragon 678,Qualcomm,Adreno 612,34
+2023-03-07,93,Snapdragon 710,Qualcomm,Adreno 616,34
+2023-03-07,94,Helio P90,MediaTek,PowerVR GM9446,33
+2023-03-07,95,Tiger T618,Unisoc,ARM Mali-G52 MP2,32
+2023-03-07,96,Snapdragon 675,Qualcomm,Adreno 612,32
+2023-03-07,97,Helio G88,MediaTek,Mali-G52 MC2,31
+2023-03-07,98,Helio G85,MediaTek,Mali-G52 MP2,31
+2023-03-07,99,Helio P95,MediaTek,PowerVR GM9446,31
+2023-03-07,100,Exynos 9611,Samsung,Mali-G72 MP3,31
+2023-03-07,101,Apple A9,Apple,PowerVR GT7600,31
+2023-03-07,102,Snapdragon 820,Qualcomm,Adreno 530,31
+2023-03-07,103,Kirin 960,HiSilicon,Mali-G71 MP8,31
+2023-03-07,104,Snapdragon 670,Qualcomm,Adreno 615,31
+2023-03-07,105,Helio G80,MediaTek,Mali-G52 MP2,30
+2023-03-07,106,Exynos 9609,Samsung,Mali-G72 MP3,30
+2023-03-07,107,Snapdragon 821,Qualcomm,Adreno 530,30
+2023-03-07,108,Tiger T616,Unisoc,Mali-G57 MP1,29
+2023-03-07,109,Tiger T700,Unisoc,ARM Mali-G52 MC2,29
+2023-03-07,110,Snapdragon 662,Qualcomm,Adreno 610,29
+2023-03-07,111,Helio G70,MediaTek,Mali-G52 2EEMC2,29
+2023-03-07,112,Kirin 710F,HiSilicon,Mali-G51 MP4,29
+2023-03-07,113,Snapdragon 665,Qualcomm,Adreno 610,29
+2023-03-07,114,Tiger T612,Unisoc,Mali-G57 MP1,28
+2023-03-07,115,Kirin 710A,HiSilicon,Mali-G51 MP4,28
+2023-03-07,116,Exynos 850,Samsung,Mali-G52 MP1,28
+2023-03-07,117,Helio P65,MediaTek,Mali-G52 MC2,28
+2023-03-07,118,Helio P70,MediaTek,Mali-G72 MP3,28
+2023-03-07,119,Kirin 710,HiSilicon,Mali-G51 MP4,28
+2023-03-07,120,Exynos 8890,Samsung,Mali-T880 MP12,28
+2023-03-07,121,Exynos 9610,Samsung,Mali-G72 MP3,28
+2023-03-07,122,Snapdragon 460,Qualcomm,Adreno 610,27
+2023-03-07,123,Helio P60,MediaTek,Mali-G72 MP3,27
+2023-03-07,124,Snapdragon 660,Qualcomm,Adreno 512,27
+2023-03-07,125,Unisoc T606,Unisoc,Mali-G57 MP1,26
+2023-03-07,126,Tiger T610,Unisoc,ARM Mali G52 MP2,26
+2023-03-07,127,Exynos 7904,Samsung,Mali-G71 MP2,26
+2023-03-07,128,Helio G37,MediaTek,PowerVR GE8320,25
+2023-03-07,129,Snapdragon 636,Qualcomm,Adreno 509,25
+2023-03-07,130,Snapdragon 632,Qualcomm,Adreno 506,25
+2023-03-07,131,Helio G35,MediaTek,IMG PowerVR GE8320,24
+2023-03-07,132,Exynos 7420,Samsung,Mali-T760 MP8,24
+2023-03-07,133,Helio P35,MediaTek,IMG PowerVR GE8320,24
+2023-03-07,134,Snapdragon 630,Qualcomm,Adreno 508,23
+2023-03-07,135,Kirin 950,HiSilicon,Mali-T880 MP4,23
+2023-03-07,136,Helio A25,MediaTek,PowerVR GE8320,22
+2023-03-07,137,Helio G25,MediaTek,IMG PowerVR GE8320,22
+2023-03-07,138,Exynos 7885,Samsung,Mali-G71 MP2,22
+2023-03-07,139,Snapdragon 439,Qualcomm,Adreno 505,22
+2023-03-07,140,Exynos 7872,Samsung,Mali-G71 MP1,22
+2023-03-07,141,Kirin 955,HiSilicon,ARM Mali-T880 MP4,22
+2023-03-07,142,Helio P23,MediaTek,Mali-G71 MP2,21
+2023-03-07,143,Exynos 7884B,Samsung,Mali-G71 MP2,21
+2023-03-07,144,Helio X20,MediaTek,Mali-T880 MP4,21
+2023-03-07,145,Helio P22,MediaTek,PowerVR GE8320,21
+2023-03-07,146,Snapdragon 450,Qualcomm,Adreno 506,21
+2023-03-07,147,Helio A22,MediaTek,PowerVR GE8320,21
+2023-03-07,148,Kirin 659,HiSilicon,Mali-T830 MP2	,20
+2023-03-07,149,Kirin 658,HiSilicon,Mali-T830 MP2,20
+2023-03-07,150,Snapdragon 429,Qualcomm,Adreno 504,20
+2023-04-07,1,A16 Bionic,Apple,Apple GPU,98
+2023-04-07,2,Snapdragon 8 Gen 2,Qualcomm,Adreno 740,96
+2023-04-07,3,Dimensity 9200,MediaTek,Mali-G715 Immortalis MC11,95
+2023-04-07,4,A15 Bionic,Apple,Apple GPU,94
+2023-04-07,5,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,93
+2023-04-07,6,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,93
+2023-04-07,7,Dimensity 9000,MediaTek,Mali-G710,91
+2023-04-07,8,Snapdragon 7 Plus Gen 2,Qualcomm,Adreno 725,90
+2023-04-07,9,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,90
+2023-04-07,10,Snapdragon 888,Qualcomm,Adreno 660,86
+2023-04-07,11,Exynos 2200,Samsung,Samsung Xclipse 920,85
+2023-04-07,12,A14 Bionic,Apple,Apple GPU,85
+2023-04-07,13,Dimensity 8200,MediaTek,Mali-G610 MC6,84
+2023-04-07,14,Snapdragon 888 Plus,Qualcomm,Adreno 660,83
+2023-04-07,15,Dimensity 8100,MediaTek,Mali-G610 MC6,82
+2023-04-07,16,Tensor G2,Google,Mali-G710 MP7,81
+2023-04-07,17,Google Tensor,Google,Mali-G78 MP20,78
+2023-04-07,18,Exynos 2100,Samsung,Mali-G78 MP14,77
+2023-04-07,19,Kirin 9000,HiSilicon,Mali-G78 MP24,77
+2023-04-07,20,A13 Bionic,Apple,Apple A13 Bionic GPU,76
+2023-04-07,21,Dimensity 8000,MediaTek,Mali-G610 MC6,72
+2023-04-07,22,Snapdragon 870,Qualcomm,Adreno 650,72
+2023-04-07,23,Kirin 9000E,HiSilicon,Mali-G78 MP22,72
+2023-04-07,24,Exynos 1080,Samsung,Mali-G78 MP10,72
+2023-04-07,25,Dimensity 1300,MediaTek,Mali-G77 MC9,71
+2023-04-07,26,Dimensity 1200,MediaTek,Mali-G77 MC9,71
+2023-04-07,27,Snapdragon 865 Plus,Qualcomm,Adreno 650,71
+2023-04-07,28,Snapdragon 865,Qualcomm,Adreno 650,68
+2023-04-07,29,Dimensity 1100,MediaTek,Mali-G77 MC9,67
+2023-04-07,30,Dimensity 7200,MediaTek,Mali-G610 MC4,66
+2023-04-07,31,Exynos 990,Samsung,Mali-G77 MP11,66
+2023-04-07,32,A12 Bionic,Apple,Apple A12 Bionic GPU,64
+2023-04-07,33,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,63
+2023-04-07,34,Snapdragon 778G Plus,Qualcomm,Adreno 642L,62
+2023-04-07,35,Snapdragon 860,Qualcomm,Adreno 640,62
+2023-04-07,36,Snapdragon 855 Plus,Qualcomm,Adreno 640,62
+2023-04-07,37,Snapdragon 7 Gen 1,Qualcomm,Adreno 644,61
+2023-04-07,38,Kirin 990 (5G),HiSilicon,Mali G76 MP16,61
+2023-04-07,39,Exynos 1380,Samsung,Mali-G68 MP5,59
+2023-04-07,40,Snapdragon 780G,Qualcomm,Adreno 642,59
+2023-04-07,41,Snapdragon 855,Qualcomm,Adreno 640,59
+2023-04-07,42,Snapdragon 778G,Qualcomm,Adreno 642L,57
+2023-04-07,43,Dimensity 1080,MediaTek,Mali-G68 MC4,56
+2023-04-07,44,Dimensity 1050,MediaTek,Mali-G610 MC3,56
+2023-04-07,45,Dimensity 920,MediaTek,Mali-G68 MC4,56
+2023-04-07,46,Kirin 990 (4G),HiSilicon,Mali G76 MP16,56
+2023-04-07,47,Dimensity 1000,MediaTek,Mali-G77 MP9,55
+2023-04-07,48,Exynos 9825,Samsung,Mali G76 MP12,55
+2023-04-07,49,Exynos 9820,Samsung,Mali G76 MP12,55
+2023-04-07,50,Dimensity 1000L,MediaTek,Mali-G77 MC9,53
+2023-04-07,51,Kirin 985,HiSilicon,Mali-G77 MP8,52
+2023-04-07,52,Kirin 820,HiSilicon,Mali-G57 MP6,52
+2023-04-07,53,Kirin 980,HiSilicon,Mali G76 MP10,52
+2023-04-07,54,Dimensity 900,MediaTek,Mali-G68 MC4,51
+2023-04-07,55,Exynos 1330,Samsung,Mali G68 MP2,50
+2023-04-07,56,Dimensity 930,MediaTek,IMG BXM-8-256,50
+2023-04-07,57,Exynos 1280,Samsung,Mali-G68 MP4,50
+2023-04-07,58,Dimensity 820,MediaTek,Mali-G57 MC5,50
+2023-04-07,59,Snapdragon 768G,Qualcomm,Adreno 620,50
+2023-04-07,60,A11 Bionic,Apple,Apple GPU,50
+2023-04-07,61,Snapdragon 845,Qualcomm,Adreno 630,48
+2023-04-07,62,Snapdragon 695,Qualcomm,Adreno 619,47
+2023-04-07,63,Dimensity 810,MediaTek,Mali-G57 MC2,46
+2023-04-07,64,Exynos 980,Samsung,Mali G76 MP5,46
+2023-04-07,65,Snapdragon 765G,Qualcomm,Adreno 620,46
+2023-04-07,66,Dimensity 6020,MediaTek,Mali-G57 MC2,45
+2023-04-07,67,Dimensity 800U,MediaTek,Mali-G57 MC3,45
+2023-04-07,68,Snapdragon 765,Qualcomm,Adreno 620,45
+2023-04-07,69,Exynos 9810,Samsung,Mali-G72MP18,45
+2023-04-07,70,Snapdragon 4 Gen 1,Qualcomm,Adreno 619,44
+2023-04-07,71,Helio G99,MediaTek,Mali-G57 MC2,44
+2023-04-07,72,Snapdragon 750G,Qualcomm,Adreno 619,44
+2023-04-07,73,Kirin 810,HiSilicon,Mali-G52 MP6,44
+2023-04-07,74,Dimensity 800,MediaTek,Mali-G57 MC4,43
+2023-04-07,75,Snapdragon 732G,Qualcomm,Adreno 618,42
+2023-04-07,76,Dimensity 720,MediaTek,Mali-G57 MC3,42
+2023-04-07,77,Exynos 880,Samsung,Mali G76 MP5,42
+2023-04-07,78,Snapdragon 685,Qualcomm,Adreno 610,41
+2023-04-07,79,Dimensity 700,MediaTek,Mali-G57 MC2,41
+2023-04-07,80,Snapdragon 690,Qualcomm,Adreno 619L,41
+2023-04-07,81,Helio G90,MediaTek,Mali-G76 MC4,41
+2023-04-07,82,Snapdragon 720G,Qualcomm,Adreno 618,41
+2023-04-07,83,Snapdragon 730G,Qualcomm,Adreno 618,41
+2023-04-07,84,Snapdragon 480,Qualcomm,Adreno 619,40
+2023-04-07,85,Helio G95,MediaTek,Mali-G76 3EEMC4,40
+2023-04-07,86,Helio G96,MediaTek,Mali G57 MC2,39
+2023-04-07,87,Helio G90T,MediaTek,Mali-G76 MC4,39
+2023-04-07,88,Snapdragon 835,Qualcomm,Adreno 540,39
+2023-04-07,89,Snapdragon 730,Qualcomm,Adreno 618,39
+2023-04-07,90,Snapdragon 480 Plus,Qualcomm,Adreno 619,38
+2023-04-07,91,A10 Fusion,Apple,PowerVR GT7600,38
+2023-04-07,92,Snapdragon 680,Qualcomm,Adreno 610,37
+2023-04-07,93,Kirin 970,HiSilicon,Mali G72 MP12,37
+2023-04-07,94,Exynos 8895,Samsung,Mali-G71 MP20,37
+2023-04-07,95,Snapdragon 712,Qualcomm,Adreno 616,36
+2023-04-07,96,Snapdragon 678,Qualcomm,Adreno 612,34
+2023-04-07,97,Snapdragon 710,Qualcomm,Adreno 616,34
+2023-04-07,98,Helio P90,MediaTek,PowerVR GM9446,33
+2023-04-07,99,Tiger T618,Unisoc,ARM Mali-G52 MP2,32
+2023-04-07,100,Snapdragon 675,Qualcomm,Adreno 612,32
+2023-04-07,101,Helio G88,MediaTek,Mali-G52 MC2,31
+2023-04-07,102,Helio G85,MediaTek,Mali-G52 MP2,31
+2023-04-07,103,Helio P95,MediaTek,PowerVR GM9446,31
+2023-04-07,104,Exynos 9611,Samsung,Mali-G72 MP3,31
+2023-04-07,105,Apple A9,Apple,PowerVR GT7600,31
+2023-04-07,106,Snapdragon 820,Qualcomm,Adreno 530,31
+2023-04-07,107,Kirin 960,HiSilicon,Mali-G71 MP8,31
+2023-04-07,108,Snapdragon 670,Qualcomm,Adreno 615,31
+2023-04-07,109,Helio G80,MediaTek,Mali-G52 MP2,30
+2023-04-07,110,Exynos 9609,Samsung,Mali-G72 MP3,30
+2023-04-07,111,Snapdragon 821,Qualcomm,Adreno 530,30
+2023-04-07,112,Tiger T616,Unisoc,Mali-G57 MP1,29
+2023-04-07,113,Tiger T700,Unisoc,ARM Mali-G52 MC2,29
+2023-04-07,114,Snapdragon 662,Qualcomm,Adreno 610,29
+2023-04-07,115,Helio G70,MediaTek,Mali-G52 2EEMC2,29
+2023-04-07,116,Kirin 710F,HiSilicon,Mali-G51 MP4,29
+2023-04-07,117,Snapdragon 665,Qualcomm,Adreno 610,29
+2023-04-07,118,Tiger T612,Unisoc,Mali-G57 MP1,28
+2023-04-07,119,Kirin 710A,HiSilicon,Mali-G51 MP4,28
+2023-04-07,120,Exynos 850,Samsung,Mali-G52 MP1,28
+2023-04-07,121,Helio P65,MediaTek,Mali-G52 MC2,28
+2023-04-07,122,Helio P70,MediaTek,Mali-G72 MP3,28
+2023-04-07,123,Kirin 710,HiSilicon,Mali-G51 MP4,28
+2023-04-07,124,Exynos 8890,Samsung,Mali-T880 MP12,28
+2023-04-07,125,Exynos 9610,Samsung,Mali-G72 MP3,28
+2023-04-07,126,Snapdragon 460,Qualcomm,Adreno 610,27
+2023-04-07,127,Helio P60,MediaTek,Mali-G72 MP3,27
+2023-04-07,128,Snapdragon 660,Qualcomm,Adreno 512,27
+2023-04-07,129,Helio G36,MediaTek,PowerVR GE8320,26
+2023-04-07,130,Unisoc T606,Unisoc,Mali-G57 MP1,26
+2023-04-07,131,Tiger T610,Unisoc,ARM Mali G52 MP2,26
+2023-04-07,132,Exynos 7904,Samsung,Mali-G71 MP2,26
+2023-04-07,133,Helio G37,MediaTek,PowerVR GE8320,25
+2023-04-07,134,Snapdragon 636,Qualcomm,Adreno 509,25
+2023-04-07,135,Snapdragon 632,Qualcomm,Adreno 506,25
+2023-04-07,136,Helio G35,MediaTek,PowerVR GE8320,24
+2023-04-07,137,Exynos 7420,Samsung,Mali-T760 MP8,24
+2023-04-07,138,Helio P35,MediaTek,IMG PowerVR GE8320,24
+2023-04-07,139,Snapdragon 630,Qualcomm,Adreno 508,23
+2023-04-07,140,Kirin 950,HiSilicon,Mali-T880 MP4,23
+2023-04-07,141,Helio A25,MediaTek,PowerVR GE8320,22
+2023-04-07,142,Helio G25,MediaTek,IMG PowerVR GE8320,22
+2023-04-07,143,Exynos 7885,Samsung,Mali-G71 MP2,22
+2023-04-07,144,Snapdragon 439,Qualcomm,Adreno 505,22
+2023-04-07,145,Exynos 7872,Samsung,Mali-G71 MP1,22
+2023-04-07,146,Kirin 955,HiSilicon,ARM Mali-T880 MP4,22
+2023-04-07,147,Helio P23,MediaTek,Mali-G71 MP2,21
+2023-04-07,148,Exynos 7884B,Samsung,Mali-G71 MP2,21
+2023-04-07,149,Helio X20,MediaTek,Mali-T880 MP4,21
+2023-04-07,150,Helio P22,MediaTek,PowerVR GE8320,21
+2023-05-07,1,A16 Bionic,Apple,Apple A16 GPU,99
+2023-05-07,2,Snapdragon 8 Gen 2,Qualcomm,Adreno 740,97
+2023-05-07,3,Dimensity 9200,MediaTek,Mali-G715 Immortalis MC11,96
+2023-05-07,4,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,93
+2023-05-07,5,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,93
+2023-05-07,6,A15 Bionic,Apple,Apple A15 GPU,92
+2023-05-07,7,Dimensity 9000,MediaTek,Mali-G710 MP10,91
+2023-05-07,8,Snapdragon 7 Plus Gen 2,Qualcomm,Adreno 725,90
+2023-05-07,9,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,89
+2023-05-07,10,Dimensity 8200,MediaTek,Mali-G610 MC6,85
+2023-05-07,11,Exynos 2200,Samsung,Samsung Xclipse 920,85
+2023-05-07,12,Snapdragon 888 Plus,Qualcomm,Adreno 660,85
+2023-05-07,13,A14 Bionic,Apple,Apple GPU,85
+2023-05-07,14,Tensor G2,Google,Mali-G710 MP7,83
+2023-05-07,15,Dimensity 8100,MediaTek,Mali-G610 MC6,83
+2023-05-07,16,Snapdragon 888,Qualcomm,Adreno 660,83
+2023-05-07,17,Exynos 2100,Samsung,Mali-G78 MP14,79
+2023-05-07,18,Dimensity 8000,MediaTek,Mali-G610 MC6,78
+2023-05-07,19,Kirin 9000,HiSilicon,Mali-G78 MP24,78
+2023-05-07,20,A13 Bionic,Apple,Apple A13 Bionic GPU,76
+2023-05-07,21,Google Tensor,Google,Mali-G78 MP20,75
+2023-05-07,22,Dimensity 1200,MediaTek,Mali-G77 MC9,73
+2023-05-07,23,Exynos 1080,Samsung,Mali-G78 MP10,73
+2023-05-07,24,Snapdragon 870,Qualcomm,Adreno 650,72
+2023-05-07,25,Kirin 9000E,HiSilicon,Mali-G78 MP22,72
+2023-05-07,26,Snapdragon 865 Plus,Qualcomm,Adreno 650,72
+2023-05-07,27,Dimensity 1300,MediaTek,Mali-G77 MC9,71
+2023-05-07,28,Dimensity 1100,MediaTek,Mali-G77 MC9,69
+2023-05-07,29,Snapdragon 865,Qualcomm,Adreno 650,68
+2023-05-07,30,Exynos 990,Samsung,Mali-G77 MP11,66
+2023-05-07,31,Dimensity 7200,MediaTek,Mali-G610 MC4,65
+2023-05-07,32,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,65
+2023-05-07,33,A12 Bionic,Apple,Apple A12 Bionic GPU,64
+2023-05-07,34,Snapdragon 7 Gen 1,Qualcomm,Adreno 644,63
+2023-05-07,35,Snapdragon 782G,Qualcomm,Adreno 642L,62
+2023-05-07,36,Snapdragon 778G Plus,Qualcomm,Adreno 642L,62
+2023-05-07,37,Snapdragon 860,Qualcomm,Adreno 640,62
+2023-05-07,38,Snapdragon 855 Plus,Qualcomm,Adreno 640,62
+2023-05-07,39,Snapdragon 780G,Qualcomm,Adreno 642,61
+2023-05-07,40,Kirin 990 (5G),HiSilicon,Mali-G76 MP16,60
+2023-05-07,41,Snapdragon 855,Qualcomm,Adreno 640,59
+2023-05-07,42,Exynos 1380,Samsung,Mali-G68 MP5,58
+2023-05-07,43,Snapdragon 778G,Qualcomm,Adreno 642L,58
+2023-05-07,44,Kirin 990 (4G),HiSilicon,Mali G76 MP16,57
+2023-05-07,45,Dimensity 1050,MediaTek,Mali-G610 MC3,56
+2023-05-07,46,Dimensity 920,MediaTek,Mali-G68 MC4,56
+2023-05-07,47,Dimensity 1000,MediaTek,Mali-G77 MP9,56
+2023-05-07,48,Exynos 9825,Samsung,Mali-G76 MP12,56
+2023-05-07,49,Exynos 9820,Samsung,Mali-G76 MP12,56
+2023-05-07,50,Dimensity 1080,MediaTek,Mali-G68 MC4,55
+2023-05-07,51,Dimensity 1000L,MediaTek,Mali-G77 MC9,54
+2023-05-07,52,Dimensity 900,MediaTek,Mali-G68 MC4,53
+2023-05-07,53,Kirin 985,HiSilicon,Mali-G77 MP8,52
+2023-05-07,54,Kirin 980,HiSilicon,Mali-G76 MP10,52
+2023-05-07,55,Kirin 820,HiSilicon,Mali-G57 MP6,51
+2023-05-07,56,A11 Bionic,Apple,Apple GPU,51
+2023-05-07,57,Exynos 1330,Samsung,Mali G68 MP2,50
+2023-05-07,58,Dimensity 930,MediaTek,IMG BXM-8-256,50
+2023-05-07,59,Exynos 1280,Samsung,Mali-G68 MP4,50
+2023-05-07,60,Dimensity 820,MediaTek,Mali-G57 MC5,50
+2023-05-07,61,Snapdragon 768G,Qualcomm,Adreno 620,50
+2023-05-07,62,Snapdragon 845,Qualcomm,Adreno 630,48
+2023-05-07,63,Snapdragon 695,Qualcomm,Adreno 619,47
+2023-05-07,64,Dimensity 810,MediaTek,Mali-G57 MC2,46
+2023-05-07,65,Exynos 980,Samsung,Mali-G76 MP5,46
+2023-05-07,66,Snapdragon 765G,Qualcomm,Adreno 620,46
+2023-05-07,67,Dimensity 6020,MediaTek,Mali-G57 MC2,45
+2023-05-07,68,Snapdragon 4 Gen 1,Qualcomm,Adreno 619,45
+2023-05-07,69,Dimensity 800U,MediaTek,Mali-G57 MC3,45
+2023-05-07,70,Snapdragon 765,Qualcomm,Adreno 620,45
+2023-05-07,71,Exynos 9810,Samsung,Mali-G72 MP18,45
+2023-05-07,72,Helio G99,MediaTek,Mali-G57 MC2,44
+2023-05-07,73,Snapdragon 750G,Qualcomm,Adreno 619,44
+2023-05-07,74,Kirin 810,HiSilicon,Mali-G52 MP6,44
+2023-05-07,75,Exynos 880,Samsung,Mali-G76 MP5,43
+2023-05-07,76,Dimensity 800,MediaTek,Mali-G57 MC4,43
+2023-05-07,77,Dimensity 700,MediaTek,Mali-G57 MC2,42
+2023-05-07,78,Snapdragon 732G,Qualcomm,Adreno 618,42
+2023-05-07,79,Dimensity 720,MediaTek,Mali-G57 MC3,42
+2023-05-07,80,Snapdragon 720G,Qualcomm,Adreno 618,42
+2023-05-07,81,Snapdragon 690,Qualcomm,Adreno 619L,41
+2023-05-07,82,Helio G90,MediaTek,Mali-G76 MC4,41
+2023-05-07,83,Snapdragon 730G,Qualcomm,Adreno 618,41
+2023-05-07,84,Snapdragon 480,Qualcomm,Adreno 619,40
+2023-05-07,85,Snapdragon 730,Qualcomm,Adreno 618,40
+2023-05-07,86,Snapdragon 480 Plus,Qualcomm,Adreno 619,39
+2023-05-07,87,Helio G96,MediaTek,Mali-G57 MC2,39
+2023-05-07,88,Helio G95,MediaTek,Mali-G76 3EEMC4,39
+2023-05-07,89,Helio G90T,MediaTek,Mali-G76 MC4,39
+2023-05-07,90,Snapdragon 835,Qualcomm,Adreno 540,39
+2023-05-07,91,Exynos 8895,Samsung,Mali-G71 MP20,38
+2023-05-07,92,Snapdragon 685,Qualcomm,Adreno 610,37
+2023-05-07,93,Snapdragon 680,Qualcomm,Adreno 610,37
+2023-05-07,94,A10 Fusion,Apple,PowerVR GT7600,37
+2023-05-07,95,Snapdragon 712,Qualcomm,Adreno 616,36
+2023-05-07,96,Kirin 970,HiSilicon,Mali-G72 MP12,35
+2023-05-07,97,Snapdragon 678,Qualcomm,Adreno 612,34
+2023-05-07,98,Snapdragon 710,Qualcomm,Adreno 616,34
+2023-05-07,99,Helio P90,MediaTek,PowerVR GM9446,33
+2023-05-07,100,Helio G88,MediaTek,Mali-G52 MC2,32
+2023-05-07,101,Tiger T618,Unisoc,Mali-G52 MP2,32
+2023-05-07,102,Snapdragon 675,Qualcomm,Adreno 612,32
+2023-05-07,103,Helio G85,MediaTek,Mali-G52 MP2,31
+2023-05-07,104,Helio P95,MediaTek,PowerVR GM9446,31
+2023-05-07,105,Exynos 9611,Samsung,Mali-G72 MP3,31
+2023-05-07,106,Snapdragon 820,Qualcomm,Adreno 530,31
+2023-05-07,107,Kirin 960,HiSilicon,Mali-G71 MP8,31
+2023-05-07,108,Snapdragon 670,Qualcomm,Adreno 615,31
+2023-05-07,109,Helio G80,MediaTek,Mali-G52 MP2,30
+2023-05-07,110,Apple A9,Apple,PowerVR GT7600,30
+2023-05-07,111,Exynos 9609,Samsung,Mali-G72 MP3,30
+2023-05-07,112,Snapdragon 821,Qualcomm,Adreno 530,30
+2023-05-07,113,Tiger T616,Unisoc,Mali-G57 MP1,29
+2023-05-07,114,Tiger T700,Unisoc,Mali-G52 MC2,29
+2023-05-07,115,Snapdragon 662,Qualcomm,Adreno 610,29
+2023-05-07,116,Helio G70,MediaTek,Mali-G52 2EEMC2,29
+2023-05-07,117,Snapdragon 665,Qualcomm,Adreno 610,29
+2023-05-07,118,Exynos 9610,Samsung,Mali-G72 MP3,29
+2023-05-07,119,Tiger T612,Unisoc,Mali-G57 MP1,28
+2023-05-07,120,Kirin 710A,HiSilicon,Mali-G51 MP4,28
+2023-05-07,121,Exynos 850,Samsung,Mali-G52 MP1,28
+2023-05-07,122,Kirin 710F,HiSilicon,Mali-G51 MP4,28
+2023-05-07,123,Helio P65,MediaTek,Mali-G52 MC2,28
+2023-05-07,124,Helio P60,MediaTek,Mali-G72 MP3,28
+2023-05-07,125,Helio P70,MediaTek,Mali-G72 MP3,28
+2023-05-07,126,Kirin 710,HiSilicon,Mali-G51 MP4,28
+2023-05-07,127,Exynos 8890,Samsung,Mali-T880 MP12,28
+2023-05-07,128,Tiger T610,Unisoc,Mali-G52 MP2,27
+2023-05-07,129,Snapdragon 660,Qualcomm,Adreno 512,27
+2023-05-07,130,Unisoc T606,Unisoc,Mali-G57 MP1,26
+2023-05-07,131,Snapdragon 460,Qualcomm,Adreno 610,26
+2023-05-07,132,Exynos 7904,Samsung,Mali-G71 MP2,26
+2023-05-07,133,Helio G37,MediaTek,PowerVR GE8320,25
+2023-05-07,134,Helio G35,MediaTek,PowerVR GE8320,25
+2023-05-07,135,Helio G36,MediaTek,PowerVR GE8320,24
+2023-05-07,136,Exynos 7420,Samsung,Mali-T760 MP8,24
+2023-05-07,137,Snapdragon 636,Qualcomm,Adreno 509,24
+2023-05-07,138,Helio P35,MediaTek,PowerVR GE8320,24
+2023-05-07,139,Snapdragon 632,Qualcomm,Adreno 506,24
+2023-05-07,140,Kirin 950,HiSilicon,Mali-T880 MP4,23
+2023-05-07,141,Helio A25,MediaTek,PowerVR GE8320,22
+2023-05-07,142,Helio G25,MediaTek,PowerVR GE8320,22
+2023-05-07,143,Exynos 7885,Samsung,Mali-G71 MP2,22
+2023-05-07,144,Snapdragon 439,Qualcomm,Adreno 505,22
+2023-05-07,145,Snapdragon 630,Qualcomm,Adreno 508,22
+2023-05-07,146,Exynos 7872,Samsung,Mali-G71 MP1,22
+2023-05-07,147,Kirin 955,HiSilicon,ARM Mali-T880 MP4,22
+2023-05-07,148,Helio P23,MediaTek,Mali-G71 MP2,21
+2023-05-07,149,Exynos 7884B,Samsung,Mali-G71 MP2,21
+2023-05-07,150,Helio X20,MediaTek,Mali-T880 MP4,21
+2022-12-07,1,A16 Bionic,Apple,Apple GPU,99
+2022-12-07,2,Snapdragon 8 Gen 2,Qualcomm,Adreno 740,97
+2022-12-07,3,Dimensity 9200,MediaTek,Mali-G715 Immortalis MC11,94
+2022-12-07,4,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,93
+2022-12-07,5,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,92
+2022-12-07,6,Dimensity 9000,MediaTek,Mali-G710,91
+2022-12-07,7,A15 Bionic,Apple,Apple GPU,91
+2022-12-07,8,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,90
+2022-12-07,9,Exynos 2200,Samsung,Samsung Xclipse 920,85
+2022-12-07,10,A14 Bionic,Apple,Apple GPU,85
+2022-12-07,11,Snapdragon 888 Plus,Qualcomm,Adreno 660,83
+2022-12-07,12,Snapdragon 888,Qualcomm,Adreno 660,83
+2022-12-07,13,Dimensity 8100,MediaTek,Mali-G610 MC6,82
+2022-12-07,14,Tensor G2,Google,Mali-G710 MP7,78
+2022-12-07,15,Google Tensor,Google,Mali-G78 MP20,78
+2022-12-07,16,Exynos 2100,Samsung,Mali-G78 MP14,77
+2022-12-07,17,Kirin 9000,HiSilicon,Mali-G78 MP24,77
+2022-12-07,18,A13 Bionic,Apple,Apple A13 Bionic GPU,76
+2022-12-07,19,Dimensity 8000,MediaTek,Mali-G610 MC6,72
+2022-12-07,20,Snapdragon 870,Qualcomm,Adreno 650,72
+2022-12-07,21,Kirin 9000E,HiSilicon,Mali-G78 MP22,72
+2022-12-07,22,Exynos 1080,Samsung,Mali-G78 MP10,71
+2022-12-07,23,Snapdragon 865 Plus,Qualcomm,Adreno 650,71
+2022-12-07,24,Dimensity 1300,MediaTek,Mali-G77 MC9,70
+2022-12-07,25,Dimensity 1200,MediaTek,Mali-G77 MC9,70
+2022-12-07,26,Snapdragon 865,Qualcomm,Adreno 650,68
+2022-12-07,27,Dimensity 1100,MediaTek,Mali-G77 MC9,65
+2022-12-07,28,Exynos 990,Samsung,Mali-G77 MP11,65
+2022-12-07,29,A12 Bionic,Apple,Apple A12 Bionic GPU,64
+2022-12-07,30,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,63
+2022-12-07,31,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,62
+2022-12-07,32,Snapdragon 860,Qualcomm,Adreno 640,62
+2022-12-07,33,Snapdragon 855 Plus,Qualcomm,Adreno 640,62
+2022-12-07,34,Kirin 990 (5G),HiSilicon,Mali G76 MP16,60
+2022-12-07,35,Snapdragon 778G Plus,Qualcomm,Adreno 642L,59
+2022-12-07,36,Snapdragon 855,Qualcomm,Adreno 640,59
+2022-12-07,37,Exynos 9825,Samsung,Mali G76 MP12,58
+2022-12-07,38,Snapdragon 778G,Qualcomm,Adreno 642L,57
+2022-12-07,39,Snapdragon 780G,Qualcomm,Adreno 642,57
+2022-12-07,40,Kirin 990 (4G),HiSilicon,Mali G76 MP16,56
+2022-12-07,41,Exynos 9820,Samsung,Mali G76 MP12,56
+2022-12-07,42,Dimensity 1080,MediaTek,Mali-G68 MC4,55
+2022-12-07,43,Dimensity 920,MediaTek,Mali-G68 MC4,55
+2022-12-07,44,Dimensity 1000,MediaTek,Mali-G77 MP9,55
+2022-12-07,45,Dimensity 1000L,MediaTek,Mali-G77 MC9,53
+2022-12-07,46,Kirin 985,HiSilicon,Mali-G77 MP8,52
+2022-12-07,47,Kirin 820,HiSilicon,Mali-G57 MP6,52
+2022-12-07,48,Kirin 980,HiSilicon,Mali G76 MP10,52
+2022-12-07,49,Dimensity 900,MediaTek,Mali-G68 MC4,51
+2022-12-07,50,Exynos 1280,Samsung,Mali-G68,50
+2022-12-07,51,Dimensity 820,MediaTek,Mali-G57 MC5,50
+2022-12-07,52,Snapdragon 768G,Qualcomm,Adreno 620,50
+2022-12-07,53,A11 Bionic,Apple,Apple GPU,50
+2022-12-07,54,Snapdragon 695,Qualcomm,Adreno 619,48
+2022-12-07,55,Snapdragon 845,Qualcomm,Adreno 630,48
+2022-12-07,56,Exynos 9810,Samsung,Mali-G72MP18,47
+2022-12-07,57,Snapdragon 4 Gen 1,Qualcomm,Adreno,46
+2022-12-07,58,Dimensity 810,MediaTek,Mali-G57 MC2,46
+2022-12-07,59,Exynos 980,Samsung,Mali G76 MP5,46
+2022-12-07,60,Snapdragon 765G,Qualcomm,Adreno 620,46
+2022-12-07,61,Dimensity 800U,MediaTek,Mali-G57 MC3,45
+2022-12-07,62,Snapdragon 765,Qualcomm,Adreno 620,45
+2022-12-07,63,Helio G99,MediaTek,Mali-G57 MC2,44
+2022-12-07,64,Snapdragon 750G,Qualcomm,Adreno 619,44
+2022-12-07,65,Kirin 810,HiSilicon,Mali-G52 MP6,44
+2022-12-07,66,Dimensity 800,MediaTek,Mali-G57 MC4,43
+2022-12-07,67,Snapdragon 732G,Qualcomm,Adreno 618,42
+2022-12-07,68,Dimensity 720,MediaTek,Mali-G57 MC3,42
+2022-12-07,69,Exynos 880,Samsung,Mali G76 MP5,42
+2022-12-07,70,Dimensity 700,MediaTek,Mali-G57 MC2,41
+2022-12-07,71,Snapdragon 690,Qualcomm,Adreno 619L,41
+2022-12-07,72,Helio G90,MediaTek,Mali-G76 MC4,41
+2022-12-07,73,Snapdragon 720G,Qualcomm,Adreno 618,41
+2022-12-07,74,Snapdragon 730G,Qualcomm,Adreno 618,41
+2022-12-07,75,Snapdragon 480,Qualcomm,Adreno 619,40
+2022-12-07,76,Helio G95,MediaTek,Mali-G76 3EEMC4,40
+2022-12-07,77,Helio G90T,MediaTek,Mali-G76 MC4,39
+2022-12-07,78,Snapdragon 835,Qualcomm,Adreno 540,39
+2022-12-07,79,Snapdragon 730,Qualcomm,Adreno 618,39
+2022-12-07,80,Snapdragon 480 Plus,Qualcomm,Adreno 619,38
+2022-12-07,81,Helio G96,MediaTek,Mali G57 MC2,38
+2022-12-07,82,A10 Fusion,Apple,PowerVR GT7600,38
+2022-12-07,83,Kirin 970,HiSilicon,Mali G72 MP12,37
+2022-12-07,84,Exynos 8895,Samsung,Mali-G71 MP20,37
+2022-12-07,85,Snapdragon 680,Qualcomm,Adreno 610,36
+2022-12-07,86,Snapdragon 712,Qualcomm,Adreno 616,36
+2022-12-07,87,Snapdragon 678,Qualcomm,Adreno 612,35
+2022-12-07,88,Snapdragon 710,Qualcomm,Adreno 616,34
+2022-12-07,89,Helio P90,MediaTek,PowerVR GM9446,33
+2022-12-07,90,Tiger T618,Unisoc,ARM Mali-G52 MP2,32
+2022-12-07,91,Helio P95,MediaTek,PowerVR GM9446,32
+2022-12-07,92,Snapdragon 675,Qualcomm,Adreno 612,32
+2022-12-07,93,Helio G85,MediaTek,Mali-G52 MP2,31
+2022-12-07,94,Exynos 9611,Samsung,Mali-G72 MP3,31
+2022-12-07,95,Snapdragon 820,Qualcomm,Adreno 530,31
+2022-12-07,96,Kirin 960,HiSilicon,Mali-G71 MP8,31
+2022-12-07,97,Snapdragon 670,Qualcomm,Adreno 615,31
+2022-12-07,98,Helio G88,MediaTek,Mali-G52 MC2,30
+2022-12-07,99,Snapdragon 662,Qualcomm,Adreno 610,30
+2022-12-07,100,Helio G80,MediaTek,Mali-G52 MP2,30
+2022-12-07,101,Apple A9,Apple,PowerVR GT7600,30
+2022-12-07,102,Exynos 9609,Samsung,Mali-G72 MP3,30
+2022-12-07,103,Snapdragon 821,Qualcomm,Adreno 530,30
+2022-12-07,104,Tiger T616,Unisoc,Mali-G57 MP1,29
+2022-12-07,105,Tiger T700,Unisoc,ARM Mali-G52 MC2,29
+2022-12-07,106,Helio G70,MediaTek,Mali-G52 2EEMC2,29
+2022-12-07,107,Kirin 710F,HiSilicon,Mali-G51 MP4,29
+2022-12-07,108,Helio P70,MediaTek,Mali-G72 MP3,29
+2022-12-07,109,Snapdragon 665,Qualcomm,Adreno 610,29
+2022-12-07,110,Tiger T612,Unisoc,Mali-G57 MP1,28
+2022-12-07,111,Kirin 710A,HiSilicon,Mali-G51,28
+2022-12-07,112,Exynos 850,Samsung,Mali-G52 MP1,28
+2022-12-07,113,Snapdragon 460,Qualcomm,Adreno 610,28
+2022-12-07,114,Helio P65,MediaTek,Mali-G52 MC2,28
+2022-12-07,115,Kirin 710,HiSilicon,Mali-G51 MP4,28
+2022-12-07,116,Exynos 9610,Samsung,Mali-G72 MP3,28
+2022-12-07,117,Snapdragon 660,Qualcomm,Adreno 512,27
+2022-12-07,118,Exynos 8890,Samsung,Mali-T880 MP12,27
+2022-12-07,119,Unisoc T606,Unisoc,Mali-G57 MP1,26
+2022-12-07,120,Tiger T610,Unisoc,ARM Mali G52 MP2,26
+2022-12-07,121,Helio P60,MediaTek,Mali-G72 MP3,26
+2022-12-07,122,Helio G37,MediaTek,PowerVR GE8320,25
+2022-12-07,123,Snapdragon 636,Qualcomm,Adreno 509,25
+2022-12-07,124,Helio G35,MediaTek,IMG PowerVR GE8320,24
+2022-12-07,125,Exynos 7420,Samsung,Mali-T760 MP8,24
+2023-02-07,1,A16 Bionic,Apple,Apple GPU,99
+2023-02-07,2,Snapdragon 8 Gen 2,Qualcomm,Adreno 740,96
+2023-02-07,3,Dimensity 9200,MediaTek,Mali-G715 Immortalis MC11,95
+2023-02-07,4,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,93
+2023-02-07,5,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,92
+2023-02-07,6,A15 Bionic,Apple,Apple GPU,92
+2023-02-07,7,Dimensity 9000,MediaTek,Mali-G710,91
+2023-02-07,8,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,90
+2023-02-07,9,Dimensity 8200,MediaTek,Mali-G610 MC6,86
+2023-02-07,10,Exynos 2200,Samsung,Samsung Xclipse 920,85
+2023-02-07,11,A14 Bionic,Apple,Apple GPU,85
+2023-02-07,12,Snapdragon 888 Plus,Qualcomm,Adreno 660,83
+2023-02-07,13,Snapdragon 888,Qualcomm,Adreno 660,83
+2023-02-07,14,Dimensity 8100,MediaTek,Mali-G610 MC6,82
+2023-02-07,15,Tensor G2,Google,Mali-G710 MP7,79
+2023-02-07,16,Google Tensor,Google,Mali-G78 MP20,78
+2023-02-07,17,Kirin 9000,HiSilicon,Mali-G78 MP24,78
+2023-02-07,18,Exynos 2100,Samsung,Mali-G78 MP14,77
+2023-02-07,19,A13 Bionic,Apple,Apple A13 Bionic GPU,76
+2023-02-07,20,Dimensity 8000,MediaTek,Mali-G610 MC6,72
+2023-02-07,21,Dimensity 1200,MediaTek,Mali-G77 MC9,72
+2023-02-07,22,Snapdragon 870,Qualcomm,Adreno 650,72
+2023-02-07,23,Kirin 9000E,HiSilicon,Mali-G78 MP22,72
+2023-02-07,24,Exynos 1080,Samsung,Mali-G78 MP10,71
+2023-02-07,25,Snapdragon 865 Plus,Qualcomm,Adreno 650,71
+2023-02-07,26,Dimensity 1300,MediaTek,Mali-G77 MC9,70
+2023-02-07,27,Snapdragon 865,Qualcomm,Adreno 650,68
+2023-02-07,28,Dimensity 1100,MediaTek,Mali-G77 MC9,67
+2023-02-07,29,Exynos 990,Samsung,Mali-G77 MP11,65
+2023-02-07,30,A12 Bionic,Apple,Apple A12 Bionic GPU,64
+2023-02-07,31,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,63
+2023-02-07,32,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,62
+2023-02-07,33,Snapdragon 860,Qualcomm,Adreno 640,62
+2023-02-07,34,Snapdragon 855 Plus,Qualcomm,Adreno 640,62
+2023-02-07,35,Kirin 990 (5G),HiSilicon,Mali G76 MP16,60
+2023-02-07,36,Dimensity 930,MediaTek,IMG BXM-8-256,59
+2023-02-07,37,Snapdragon 778G Plus,Qualcomm,Adreno 642L,59
+2023-02-07,38,Snapdragon 780G,Qualcomm,Adreno 642,59
+2023-02-07,39,Snapdragon 855,Qualcomm,Adreno 640,59
+2023-02-07,40,Snapdragon 778G,Qualcomm,Adreno 642L,58
+2023-02-07,41,Exynos 9825,Samsung,Mali G76 MP12,58
+2023-02-07,42,Kirin 990 (4G),HiSilicon,Mali G76 MP16,56
+2023-02-07,43,Exynos 9820,Samsung,Mali G76 MP12,56
+2023-02-07,44,Dimensity 920,MediaTek,Mali-G68 MC4,55
+2023-02-07,45,Dimensity 1000,MediaTek,Mali-G77 MP9,55
+2023-02-07,46,Dimensity 1080,MediaTek,Mali-G68 MC4,54
+2023-02-07,47,Dimensity 1000L,MediaTek,Mali-G77 MC9,53
+2023-02-07,48,Kirin 985,HiSilicon,Mali-G77 MP8,52
+2023-02-07,49,Kirin 820,HiSilicon,Mali-G57 MP6,52
+2023-02-07,50,Kirin 980,HiSilicon,Mali G76 MP10,52
+2023-02-07,51,Dimensity 900,MediaTek,Mali-G68 MC4,51
+2023-02-07,52,Exynos 1280,Samsung,Mali-G68,50
+2023-02-07,53,Dimensity 820,MediaTek,Mali-G57 MC5,50
+2023-02-07,54,Snapdragon 768G,Qualcomm,Adreno 620,50
+2023-02-07,55,A11 Bionic,Apple,Apple GPU,50
+2023-02-07,56,Snapdragon 845,Qualcomm,Adreno 630,49
+2023-02-07,57,Snapdragon 695,Qualcomm,Adreno 619,48
+2023-02-07,58,Exynos 9810,Samsung,Mali-G72MP18,47
+2023-02-07,59,Dimensity 810,MediaTek,Mali-G57 MC2,46
+2023-02-07,60,Exynos 980,Samsung,Mali G76 MP5,46
+2023-02-07,61,Snapdragon 765G,Qualcomm,Adreno 620,46
+2023-02-07,62,Dimensity 800U,MediaTek,Mali-G57 MC3,45
+2023-02-07,63,Snapdragon 765,Qualcomm,Adreno 620,45
+2023-02-07,64,Snapdragon 4 Gen 1,Qualcomm,Adreno 619,44
+2023-02-07,65,Helio G99,MediaTek,Mali-G57 MC2,44
+2023-02-07,66,Snapdragon 750G,Qualcomm,Adreno 619,44
+2023-02-07,67,Kirin 810,HiSilicon,Mali-G52 MP6,44
+2023-02-07,68,Dimensity 800,MediaTek,Mali-G57 MC4,43
+2023-02-07,69,Snapdragon 732G,Qualcomm,Adreno 618,42
+2023-02-07,70,Dimensity 720,MediaTek,Mali-G57 MC3,42
+2023-02-07,71,Exynos 880,Samsung,Mali G76 MP5,42
+2023-02-07,72,Dimensity 700,MediaTek,Mali-G57 MC2,41
+2023-02-07,73,Snapdragon 690,Qualcomm,Adreno 619L,41
+2023-02-07,74,Helio G90,MediaTek,Mali-G76 MC4,41
+2023-02-07,75,Snapdragon 720G,Qualcomm,Adreno 618,41
+2023-02-07,76,Snapdragon 730G,Qualcomm,Adreno 618,41
+2023-02-07,77,Snapdragon 480,Qualcomm,Adreno 619,40
+2023-02-07,78,Helio G95,MediaTek,Mali-G76 3EEMC4,40
+2023-02-07,79,Helio G96,MediaTek,Mali G57 MC2,39
+2023-02-07,80,Helio G90T,MediaTek,Mali-G76 MC4,39
+2023-02-07,81,Snapdragon 835,Qualcomm,Adreno 540,39
+2023-02-07,82,Snapdragon 730,Qualcomm,Adreno 618,39
+2023-02-07,83,Snapdragon 480 Plus,Qualcomm,Adreno 619,38
+2023-02-07,84,A10 Fusion,Apple,PowerVR GT7600,38
+2023-02-07,85,Snapdragon 680,Qualcomm,Adreno 610,37
+2023-02-07,86,Kirin 970,HiSilicon,Mali G72 MP12,37
+2023-02-07,87,Exynos 8895,Samsung,Mali-G71 MP20,37
+2023-02-07,88,Snapdragon 712,Qualcomm,Adreno 616,36
+2023-02-07,89,Snapdragon 678,Qualcomm,Adreno 612,35
+2023-02-07,90,Snapdragon 710,Qualcomm,Adreno 616,34
+2023-02-07,91,Helio P90,MediaTek,PowerVR GM9446,33
+2023-02-07,92,Tiger T618,Unisoc,ARM Mali-G52 MP2,32
+2023-02-07,93,Snapdragon 675,Qualcomm,Adreno 612,32
+2023-02-07,94,Helio G88,MediaTek,Mali-G52 MC2,31
+2023-02-07,95,Helio G85,MediaTek,Mali-G52 MP2,31
+2023-02-07,96,Helio G80,MediaTek,Mali-G52 MP2,31
+2023-02-07,97,Helio P95,MediaTek,PowerVR GM9446,31
+2023-02-07,98,Exynos 9611,Samsung,Mali-G72 MP3,31
+2023-02-07,99,Apple A9,Apple,PowerVR GT7600,31
+2023-02-07,100,Snapdragon 820,Qualcomm,Adreno 530,31
+2023-02-07,101,Kirin 960,HiSilicon,Mali-G71 MP8,31
+2023-02-07,102,Snapdragon 670,Qualcomm,Adreno 615,31
+2023-02-07,103,Exynos 9609,Samsung,Mali-G72 MP3,30
+2023-02-07,104,Snapdragon 821,Qualcomm,Adreno 530,30
+2023-02-07,105,Tiger T616,Unisoc,Mali-G57 MP1,29
+2023-02-07,106,Tiger T700,Unisoc,ARM Mali-G52 MC2,29
+2023-02-07,107,Snapdragon 662,Qualcomm,Adreno 610,29
+2023-02-07,108,Helio G70,MediaTek,Mali-G52 2EEMC2,29
+2023-02-07,109,Kirin 710F,HiSilicon,Mali-G51 MP4,29
+2023-02-07,110,Snapdragon 665,Qualcomm,Adreno 610,29
+2023-02-07,111,Tiger T612,Unisoc,Mali-G57 MP1,28
+2023-02-07,112,Kirin 710A,HiSilicon,Mali-G51 MP4,28
+2023-02-07,113,Exynos 850,Samsung,Mali-G52 MP1,28
+2023-02-07,114,Helio P65,MediaTek,Mali-G52 MC2,28
+2023-02-07,115,Helio P70,MediaTek,Mali-G72 MP3,28
+2023-02-07,116,Kirin 710,HiSilicon,Mali-G51 MP4,28
+2023-02-07,117,Exynos 8890,Samsung,Mali-T880 MP12,28
+2023-02-07,118,Exynos 9610,Samsung,Mali-G72 MP3,28
+2023-02-07,119,Snapdragon 460,Qualcomm,Adreno 610,27
+2023-02-07,120,Helio P60,MediaTek,Mali-G72 MP3,27
+2023-02-07,121,Snapdragon 660,Qualcomm,Adreno 512,27
+2023-02-07,122,Unisoc T606,Unisoc,Mali-G57 MP1,26
+2023-02-07,123,Tiger T610,Unisoc,ARM Mali G52 MP2,26
+2023-02-07,124,Exynos 7904,Samsung,Mali-G71 MP2,26
+2023-02-07,125,Helio G37,MediaTek,PowerVR GE8320,25
+2023-01-07,1,A16 Bionic,Apple,Apple GPU,99
+2023-01-07,2,Snapdragon 8 Gen 2,Qualcomm,Adreno 740,96
+2023-01-07,3,Dimensity 9200,MediaTek,Mali-G715 Immortalis MC11,95
+2023-01-07,4,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,93
+2023-01-07,5,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,92
+2023-01-07,6,A15 Bionic,Apple,Apple GPU,92
+2023-01-07,7,Dimensity 9000,MediaTek,Mali-G710,91
+2023-01-07,8,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,90
+2023-01-07,9,Exynos 2200,Samsung,Samsung Xclipse 920,85
+2023-01-07,10,A14 Bionic,Apple,Apple GPU,85
+2023-01-07,11,Dimensity 8200,MediaTek,Mali-G610 MC6,84
+2023-01-07,12,Snapdragon 888 Plus,Qualcomm,Adreno 660,84
+2023-01-07,13,Snapdragon 888,Qualcomm,Adreno 660,83
+2023-01-07,14,Dimensity 8100,MediaTek,Mali-G610 MC6,82
+2023-01-07,15,Tensor G2,Google,Mali-G710 MP7,79
+2023-01-07,16,Google Tensor,Google,Mali-G78 MP20,79
+2023-01-07,17,Exynos 2100,Samsung,Mali-G78 MP14,78
+2023-01-07,18,Kirin 9000,HiSilicon,Mali-G78 MP24,78
+2023-01-07,19,A13 Bionic,Apple,Apple A13 Bionic GPU,77
+2023-01-07,20,Dimensity 1200,MediaTek,Mali-G77 MC9,73
+2023-01-07,21,Dimensity 8000,MediaTek,Mali-G610 MC6,72
+2023-01-07,22,Snapdragon 870,Qualcomm,Adreno 650,72
+2023-01-07,23,Kirin 9000E,HiSilicon,Mali-G78 MP22,72
+2023-01-07,24,Exynos 1080,Samsung,Mali-G78 MP10,72
+2023-01-07,25,Snapdragon 865 Plus,Qualcomm,Adreno 650,72
+2023-01-07,26,Dimensity 1300,MediaTek,Mali-G77 MC9,70
+2023-01-07,27,Snapdragon 865,Qualcomm,Adreno 650,68
+2023-01-07,28,Dimensity 1100,MediaTek,Mali-G77 MC9,67
+2023-01-07,29,Exynos 990,Samsung,Mali-G77 MP11,66
+2023-01-07,30,A12 Bionic,Apple,Apple A12 Bionic GPU,64
+2023-01-07,31,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,63
+2023-01-07,32,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,62
+2023-01-07,33,Snapdragon 860,Qualcomm,Adreno 640,62
+2023-01-07,34,Snapdragon 855 Plus,Qualcomm,Adreno 640,62
+2023-01-07,35,Kirin 990 (5G),HiSilicon,Mali G76 MP16,60
+2023-01-07,36,Snapdragon 778G Plus,Qualcomm,Adreno 642L,59
+2023-01-07,37,Snapdragon 780G,Qualcomm,Adreno 642,59
+2023-01-07,38,Snapdragon 855,Qualcomm,Adreno 640,59
+2023-01-07,39,Snapdragon 778G,Qualcomm,Adreno 642L,58
+2023-01-07,40,Exynos 9825,Samsung,Mali G76 MP12,58
+2023-01-07,41,Kirin 990 (4G),HiSilicon,Mali G76 MP16,57
+2023-01-07,42,Exynos 9820,Samsung,Mali G76 MP12,56
+2023-01-07,43,Dimensity 1080,MediaTek,Mali-G68 MC4,55
+2023-01-07,44,Dimensity 920,MediaTek,Mali-G68 MC4,55
+2023-01-07,45,Dimensity 1000,MediaTek,Mali-G77 MP9,55
+2023-01-07,46,Dimensity 1000L,MediaTek,Mali-G77 MC9,54
+2023-01-07,47,Kirin 985,HiSilicon,Mali-G77 MP8,53
+2023-01-07,48,Kirin 820,HiSilicon,Mali-G57 MP6,52
+2023-01-07,49,Kirin 980,HiSilicon,Mali G76 MP10,52
+2023-01-07,50,Dimensity 900,MediaTek,Mali-G68 MC4,51
+2023-01-07,51,Exynos 1280,Samsung,Mali-G68,50
+2023-01-07,52,Dimensity 820,MediaTek,Mali-G57 MC5,50
+2023-01-07,53,Snapdragon 768G,Qualcomm,Adreno 620,50
+2023-01-07,54,A11 Bionic,Apple,Apple GPU,50
+2023-01-07,55,Snapdragon 845,Qualcomm,Adreno 630,49
+2023-01-07,56,Snapdragon 695,Qualcomm,Adreno 619,48
+2023-01-07,57,Exynos 9810,Samsung,Mali-G72MP18,47
+2023-01-07,58,Dimensity 810,MediaTek,Mali-G57 MC2,46
+2023-01-07,59,Exynos 980,Samsung,Mali G76 MP5,46
+2023-01-07,60,Snapdragon 765G,Qualcomm,Adreno 620,46
+2023-01-07,61,Dimensity 800U,MediaTek,Mali-G57 MC3,45
+2023-01-07,62,Snapdragon 765,Qualcomm,Adreno 620,45
+2023-01-07,63,Snapdragon 4 Gen 1,Qualcomm,Adreno 619,44
+2023-01-07,64,Helio G99,MediaTek,Mali-G57 MC2,44
+2023-01-07,65,Snapdragon 750G,Qualcomm,Adreno 619,44
+2023-01-07,66,Kirin 810,HiSilicon,Mali-G52 MP6,44
+2023-01-07,67,Exynos 880,Samsung,Mali G76 MP5,43
+2023-01-07,68,Dimensity 800,MediaTek,Mali-G57 MC4,43
+2023-01-07,69,Snapdragon 732G,Qualcomm,Adreno 618,42
+2023-01-07,70,Dimensity 720,MediaTek,Mali-G57 MC3,42
+2023-01-07,71,Dimensity 700,MediaTek,Mali-G57 MC2,41
+2023-01-07,72,Snapdragon 690,Qualcomm,Adreno 619L,41
+2023-01-07,73,Helio G90,MediaTek,Mali-G76 MC4,41
+2023-01-07,74,Snapdragon 720G,Qualcomm,Adreno 618,41
+2023-01-07,75,Snapdragon 730G,Qualcomm,Adreno 618,41
+2023-01-07,76,Snapdragon 480,Qualcomm,Adreno 619,40
+2023-01-07,77,Helio G95,MediaTek,Mali-G76 3EEMC4,40
+2023-01-07,78,Helio G96,MediaTek,Mali G57 MC2,39
+2023-01-07,79,Helio G90T,MediaTek,Mali-G76 MC4,39
+2023-01-07,80,Snapdragon 835,Qualcomm,Adreno 540,39
+2023-01-07,81,Snapdragon 730,Qualcomm,Adreno 618,39
+2023-01-07,82,Snapdragon 480 Plus,Qualcomm,Adreno 619,38
+2023-01-07,83,A10 Fusion,Apple,PowerVR GT7600,38
+2023-01-07,84,Snapdragon 680,Qualcomm,Adreno 610,37
+2023-01-07,85,Kirin 970,HiSilicon,Mali G72 MP12,37
+2023-01-07,86,Exynos 8895,Samsung,Mali-G71 MP20,37
+2023-01-07,87,Snapdragon 712,Qualcomm,Adreno 616,36
+2023-01-07,88,Snapdragon 678,Qualcomm,Adreno 612,35
+2023-01-07,89,Snapdragon 710,Qualcomm,Adreno 616,34
+2023-01-07,90,Helio P90,MediaTek,PowerVR GM9446,33
+2023-01-07,91,Tiger T618,Unisoc,ARM Mali-G52 MP2,32
+2023-01-07,92,Snapdragon 675,Qualcomm,Adreno 612,32
+2023-01-07,93,Helio G88,MediaTek,Mali-G52 MC2,31
+2023-01-07,94,Helio G85,MediaTek,Mali-G52 MP2,31
+2023-01-07,95,Helio G80,MediaTek,Mali-G52 MP2,31
+2023-01-07,96,Helio P95,MediaTek,PowerVR GM9446,31
+2023-01-07,97,Exynos 9611,Samsung,Mali-G72 MP3,31
+2023-01-07,98,Apple A9,Apple,PowerVR GT7600,31
+2023-01-07,99,Snapdragon 820,Qualcomm,Adreno 530,31
+2023-01-07,100,Kirin 960,HiSilicon,Mali-G71 MP8,31
+2023-01-07,101,Snapdragon 670,Qualcomm,Adreno 615,31
+2023-01-07,102,Exynos 9609,Samsung,Mali-G72 MP3,30
+2023-01-07,103,Snapdragon 821,Qualcomm,Adreno 530,30
+2023-01-07,104,Tiger T616,Unisoc,Mali-G57 MP1,29
+2023-01-07,105,Tiger T700,Unisoc,ARM Mali-G52 MC2,29
+2023-01-07,106,Kirin 710A,HiSilicon,Mali-G51 MP4,29
+2023-01-07,107,Snapdragon 662,Qualcomm,Adreno 610,29
+2023-01-07,108,Helio G70,MediaTek,Mali-G52 2EEMC2,29
+2023-01-07,109,Kirin 710F,HiSilicon,Mali-G51 MP4,29
+2023-01-07,110,Snapdragon 665,Qualcomm,Adreno 610,29
+2023-01-07,111,Tiger T612,Unisoc,Mali-G57 MP1,28
+2023-01-07,112,Exynos 850,Samsung,Mali-G52 MP1,28
+2023-01-07,113,Helio P65,MediaTek,Mali-G52 MC2,28
+2023-01-07,114,Helio P70,MediaTek,Mali-G72 MP3,28
+2023-01-07,115,Kirin 710,HiSilicon,Mali-G51 MP4,28
+2023-01-07,116,Exynos 8890,Samsung,Mali-T880 MP12,28
+2023-01-07,117,Exynos 9610,Samsung,Mali-G72 MP3,28
+2023-01-07,118,Snapdragon 460,Qualcomm,Adreno 610,27
+2023-01-07,119,Helio P60,MediaTek,Mali-G72 MP3,27
+2023-01-07,120,Snapdragon 660,Qualcomm,Adreno 512,27
+2023-01-07,121,Unisoc T606,Unisoc,Mali-G57 MP1,26
+2023-01-07,122,Tiger T610,Unisoc,ARM Mali G52 MP2,26
+2023-01-07,123,Exynos 7904,Samsung,Mali-G71 MP2,26
+2023-01-07,124,Helio G37,MediaTek,PowerVR GE8320,25
+2023-01-07,125,Snapdragon 636,Qualcomm,Adreno 509,25
+2022-11-07,1,A16 Bionic,Apple,Apple GPU,100
+2022-11-07,7,A14 Bionic,Apple,Apple GPU,93
+2022-11-07,10,Snapdragon 888,Qualcomm,Adreno 660,90
+2022-11-07,14,Exynos 2100,Samsung,Mali-G78 MP14,85
+2022-11-07,16,A13 Bionic,Apple,Apple A13 Bionic GPU,82
+2022-11-07,19,Exynos 1080,Samsung,Mali-G78 MP10,78
+2022-11-07,29,A12 Bionic,Apple,Apple A12 Bionic GPU,68
+2022-11-07,46,Kirin 820,HiSilicon,Mali-G57 MP6,55
+2022-11-07,50,A11 Bionic,Apple,Apple GPU,53
+2022-11-07,53,Exynos 9810,Samsung,Mali-G72MP18,51
+2022-11-07,54,Snapdragon 4 Gen 1,Qualcomm,Adreno,49
+2022-11-07,62,Kirin 810,HiSilicon,Mali-G52 MP6,47
+2022-11-07,67,Helio G95,MediaTek,Mali-G76 3EEMC4,44
+2022-11-07,72,Helio G90,MediaTek,Mali-G76 MC4,43
+2022-11-07,80,Kirin 970,HiSilicon,Mali G72 MP12,40
+2022-11-07,92,Helio G80,MediaTek,Mali-G52 MP2,33
+2022-11-07,93,Helio P95,MediaTek,PowerVR GM9446,33
+2022-11-07,97,Apple A9,Apple,PowerVR GT7600,32
+2022-11-07,98,Exynos 9609,Samsung,Mali-G72 MP3,32
+2022-11-07,101,Tiger T700,Unisoc,ARM Mali-G52 MC2,31
+2022-11-07,105,Tiger T616,Unisoc,Mali-G57 MP1,30
+2022-11-07,109,Kirin 710,HiSilicon,Mali-G51 MP4,30
+2022-11-07,110,Exynos 9610,Samsung,Mali-G72 MP3,30
+2022-11-07,111,Kirin 710A,HiSilicon,Mali-G51,29
+2022-11-07,115,Tiger T612,Unisoc,Mali-G57 MP1,28
+2022-11-07,118,Unisoc T606,Unisoc,Mali-G57 MP1,27
+2022-11-07,119,Helio G37,MediaTek,PowerVR GE8320,27
+2022-11-07,123,Exynos 7420,Samsung,Mali-T760 MP8,25
+2022-11-07,2,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,97
+2022-11-07,3,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,97
+2022-11-07,6,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,94
+2022-11-07,11,Dimensity 8100,MediaTek,Mali-G610 MC6,89
+2022-11-07,15,Kirin 9000,HiSilicon,Mali-G78 MP24,85
+2022-11-07,20,Snapdragon 865 Plus,Qualcomm,Adreno 650,78
+2022-11-07,23,Dimensity 1200,MediaTek,Mali-G77 MC9,77
+2022-11-07,24,Snapdragon 865,Qualcomm,Adreno 650,74
+2022-11-07,27,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,70
+2022-11-07,28,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,69
+2022-11-07,32,Kirin 990 (5G),HiSilicon,Mali G76 MP16,65
+2022-11-07,33,Snapdragon 778G Plus,Qualcomm,Adreno 642L,64
+2022-11-07,36,Snapdragon 778G,Qualcomm,Adreno 642L,62
+2022-11-07,37,Snapdragon 780G,Qualcomm,Adreno 642,62
+2022-11-07,40,Dimensity 1000,MediaTek,Mali-G77 MP9,60
+2022-11-07,41,Dimensity 920,MediaTek,Mali-G68 MC4,59
+2022-11-07,42,Dimensity 1000L,MediaTek,Mali-G77 MC9,57
+2022-11-07,45,Dimensity 900,MediaTek,Mali-G68 MC4,55
+2022-11-07,49,Snapdragon 768G,Qualcomm,Adreno 620,54
+2022-11-07,55,Dimensity 810,MediaTek,Mali-G57 MC2,49
+2022-11-07,58,Snapdragon 765G,Qualcomm,Adreno 620,49
+2022-11-07,59,Snapdragon 765,Qualcomm,Adreno 620,48
+2022-11-07,63,Dimensity 800,MediaTek,Mali-G57 MC4,46
+2022-11-07,66,Dimensity 700,MediaTek,Mali-G57 MC2,44
+2022-11-07,70,Snapdragon 720G,Qualcomm,Adreno 618,44
+2022-11-07,71,Snapdragon 480 Plus,Qualcomm,Adreno 619,43
+2022-11-07,75,Snapdragon 835,Qualcomm,Adreno 540,42
+2022-11-07,76,Snapdragon 730,Qualcomm,Adreno 618,42
+2022-11-07,79,Snapdragon 480,Qualcomm,Adreno 619,40
+2022-11-07,83,Snapdragon 712,Qualcomm,Adreno 616,38
+2022-11-07,84,Snapdragon 678,Qualcomm,Adreno 612,37
+2022-11-07,85,Snapdragon 710,Qualcomm,Adreno 616,36
+2022-11-07,88,Snapdragon 820,Qualcomm,Adreno 530,34
+2022-11-07,89,Snapdragon 675,Qualcomm,Adreno 612,34
+2022-11-07,96,Snapdragon 670,Qualcomm,Adreno 615,33
+2022-11-07,102,Snapdragon 662,Qualcomm,Adreno 610,31
+2022-11-07,106,Kirin 710F,HiSilicon,Mali-G51 MP4,30
+2022-11-07,114,Snapdragon 660,Qualcomm,Adreno 512,29
+2022-11-07,122,Helio G35,MediaTek,IMG PowerVR GE8320,25
+2022-11-07,90,Helio G88,MediaTek,Mali-G52 MC2,33
+2022-11-07,91,Helio G85,MediaTek,Mali-G52 MP2,33
+2022-11-07,107,Helio P65,MediaTek,Mali-G52 MC2,30
+2022-11-07,108,Helio P70,MediaTek,Mali-G72 MP3,30
+2022-11-07,120,Snapdragon 636,Qualcomm,Adreno 509,26
+2022-11-07,121,Snapdragon 632,Qualcomm,Adreno 506,26
+2022-11-07,12,Tensor G2,Google,Mali-G710 MP7,88
+2022-11-07,13,Google Tensor,Google,Mali-G78 MP20,86
+2022-11-07,21,Dimensity 1300,MediaTek,Mali-G77 MC9,77
+2022-11-07,22,Dimensity 8000,MediaTek,Mali-G610 MC6,77
+2022-11-07,43,Kirin 980,HiSilicon,Mali G76 MP10,57
+2022-11-07,44,Kirin 985,HiSilicon,Mali-G77 MP8,56
+2022-11-07,51,Snapdragon 845,Qualcomm,Adreno 630,52
+2022-11-07,52,Snapdragon 695,Qualcomm,Adreno 619,51
+2022-11-07,4,A15 Bionic,Apple,Apple GPU,97
+2022-11-07,5,Dimensity 9000,MediaTek,Mali-G710,96
+2022-11-07,25,Dimensity 1100,MediaTek,Mali-G77 MC9,72
+2022-11-07,26,Exynos 990,Samsung,Mali-G77 MP11,71
+2022-11-07,30,Snapdragon 860,Qualcomm,Adreno 640,67
+2022-11-07,31,Snapdragon 855 Plus,Qualcomm,Adreno 640,67
+2022-11-07,47,Exynos 1280,Samsung,Mali-G68,54
+2022-11-07,48,Dimensity 820,MediaTek,Mali-G57 MC5,54
+2022-11-07,56,Dimensity 800U,MediaTek,Mali-G57 MC3,49
+2022-11-07,57,Exynos 980,Samsung,Mali G76 MP5,49
+2022-11-07,60,Helio G99,MediaTek,Mali-G57 MC2,47
+2022-11-07,61,Snapdragon 750G,Qualcomm,Adreno 619,47
+2022-11-07,64,Snapdragon 732G,Qualcomm,Adreno 618,45
+2022-11-07,65,Exynos 880,Samsung,Mali G76 MP5,45
+2022-11-07,68,Dimensity 720,MediaTek,Mali-G57 MC3,44
+2022-11-07,69,Snapdragon 690,Qualcomm,Adreno 619L,44
+2022-11-07,77,Helio G96,MediaTek,Mali G57 MC2,41
+2022-11-07,78,A10 Fusion,Apple,PowerVR GT7600,41
+2022-11-07,103,Helio G70,MediaTek,Mali-G52 2EEMC2,31
+2022-11-07,104,Snapdragon 665,Qualcomm,Adreno 610,31
+2022-11-07,112,Exynos 850,Samsung,Mali-G52 MP1,29
+2022-11-07,113,Snapdragon 460,Qualcomm,Adreno 610,29
+2022-11-07,116,Tiger T610,Unisoc,ARM Mali G52 MP2,28
+2022-11-07,117,Helio P60,MediaTek,Mali-G72 MP3,28
+2022-11-07,8,Snapdragon 888 Plus,Qualcomm,Adreno 660,91
+2022-11-07,9,Exynos 2200,Samsung,Samsung Xclipse 920,90
+2022-11-07,34,Snapdragon 855,Qualcomm,Adreno 640,64
+2022-11-07,35,Exynos 9825,Samsung,Mali G76 MP12,63
+2022-11-07,38,Kirin 990 (4G),HiSilicon,Mali G76 MP16,62
+2022-11-07,39,Exynos 9820,Samsung,Mali G76 MP12,61
+2022-11-07,73,Snapdragon 730G,Qualcomm,Adreno 618,43
+2022-11-07,74,Helio G90T,MediaTek,Mali-G76 MC4,42
+2022-11-07,81,Snapdragon 680,Qualcomm,Adreno 610,39
+2022-11-07,82,Exynos 8895,Samsung,Mali-G71 MP20,39
+2022-11-07,86,Helio P90,MediaTek,PowerVR GM9446,35
+2022-11-07,87,Tiger T618,Unisoc,ARM Mali-G52 MP2,34
+2022-11-07,94,Exynos 9611,Samsung,Mali-G72 MP3,33
+2022-11-07,95,Kirin 960,HiSilicon,Mali-G71 MP8,33
+2022-11-07,99,Snapdragon 821,Qualcomm,Adreno 530,32
+2022-11-07,100,Exynos 8890,Samsung,Mali-T880 MP12,32
+2022-11-07,124,Exynos 7904,Samsung,Mali-G71 MP2,25
+2022-11-07,125,Helio P35,MediaTek,IMG PowerVR GE8320,25
+2022-11-07,17,Snapdragon 870,Qualcomm,Adreno 650,78
+2022-11-07,18,Kirin 9000E,HiSilicon,Mali-G78 MP22,78
+2022-08-11,58,Kirin 810,HiSilicon,Mali-G52 MP6,47
+2022-08-11,67,Helio G95,MediaTek,Mali-G76 3EEMC4,43
+2022-08-11,72,Snapdragon 835,Qualcomm,Adreno 540,42
+2022-08-11,78,Exynos 8895,Samsung,Mali-G71 MP20,39
+2022-08-11,88,Helio G80,MediaTek,Mali-G52 MP2,33
+2022-08-11,93,Tiger T616,Unisoc,Mali-G57 MP1,32
+2022-08-11,96,Tiger T700,Unisoc,ARM Mali-G52 MC2,31
+2022-08-11,98,Helio G70,MediaTek,Mali-G52 2EEMC2,31
+2022-08-11,24,Dimensity 1100,MediaTek,Mali-G77 MC9,71
+2022-08-11,63,Dimensity 700,MediaTek,Mali-G57 MC2,44
+2022-08-11,81,Snapdragon 710,Qualcomm,Adreno 616,36
+2022-08-11,84,Snapdragon 820,Qualcomm,Adreno 530,34
+2022-08-11,101,Snapdragon 665,Qualcomm,Adreno 610,31
+2022-08-11,122,Snapdragon 630,Qualcomm,Adreno 508,24
+2022-08-11,13,Exynos 2100,Samsung,Mali-G78 MP14,83
+2022-08-11,43,Exynos 1280,Samsung,Mali-G68,55
+2022-08-11,82,Helio P90,MediaTek,PowerVR GM9446,35
+2022-08-11,50,A11 Bionic,Apple,Apple GPU,51
+2022-08-11,74,A10 Fusion,Apple,PowerVR GT7600,41
+2022-08-11,44,Kirin 820,HiSilicon,Mali-G57 MP6,55
+2022-08-11,57,Snapdragon 750G,Qualcomm,Adreno 619,47
+2022-08-11,89,Helio P95,MediaTek,PowerVR GM9446,33
+2022-08-11,64,Dimensity 720,MediaTek,Mali-G57 MC3,44
+2022-08-11,51,Exynos 9810,Samsung,Mali-G72MP18,51
+2022-08-11,69,Snapdragon 730G,Qualcomm,Adreno 618,43
+2022-08-11,56,Snapdragon 765,Qualcomm,Adreno 620,48
+2022-08-11,94,Exynos 9609,Samsung,Mali-G72 MP3,32
+2022-08-11,1,A15 Bionic,Apple,Apple GPU,98
+2022-08-11,4,Dimensity 9000,MediaTek,Mali-G710,96
+2022-08-11,11,Google Tensor,Google,Mali-G78 MP20,85
+2022-08-11,17,Exynos 1080,Samsung,Mali-G78 MP10,78
+2022-08-11,68,Helio G90,MediaTek,Mali-G76 MC4,43
+2022-08-11,104,Helio P70,MediaTek,Mali-G72 MP3,30
+2022-08-11,27,A12 Bionic,Apple,Apple A12 Bionic GPU,69
+2022-08-11,77,Kirin 970,HiSilicon,Mali G72 MP12,39
+2022-08-11,36,Exynos 9820,Samsung,Mali G76 MP12,61
+2022-08-11,106,Exynos 9610,Samsung,Mali-G72 MP3,30
+2022-08-11,3,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,97
+2022-08-11,80,Snapdragon 678,Qualcomm,Adreno 612,36
+2022-08-11,39,Exynos 9825,Samsung,Mali G76 MP12,59
+2022-08-11,61,Exynos 880,Samsung,Mali G76 MP5,45
+2022-08-11,5,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,94
+2022-08-11,108,Kirin 710A,HiSilicon,Mali-G51,29
+2022-08-11,6,A14 Bionic,Apple,Apple GPU,92
+2022-08-11,14,A13 Bionic,Apple,Apple A13 Bionic GPU,82
+2022-08-11,25,Exynos 990,Samsung,Mali-G77 MP11,71
+2022-08-11,53,Exynos 980,Samsung,Mali G76 MP5,49
+2022-08-11,70,Helio G96,MediaTek,Mali G57 MC2,42
+2022-08-11,71,Helio G90T,MediaTek,Mali-G76 MC4,42
+2022-08-11,62,Snapdragon 480 Plus,Qualcomm,Adreno 619,44
+2022-08-11,7,Snapdragon 888 Plus,Qualcomm,Adreno 660,91
+2022-08-11,124,Helio A25,MediaTek,PowerVR GE8320,23
+2022-08-11,86,Helio G88,MediaTek,Mali-G52 MC2,33
+2022-08-11,8,Exynos 2200,Samsung,Samsung Xclipse 920,90
+2022-08-11,87,Helio G85,MediaTek,Mali-G52 MP2,33
+2022-08-11,73,Snapdragon 730,Qualcomm,Adreno 618,42
+2022-08-11,10,Dimensity 8100,MediaTek,Mali-G610 MC6,88
+2022-08-11,90,Exynos 9611,Samsung,Mali-G72 MP3,33
+2022-08-11,112,Unisoc T606,Unisoc,Mali-G57 MP1,28
+2022-08-11,79,Snapdragon 712,Qualcomm,Adreno 616,38
+2022-08-11,12,Kirin 9000,HiSilicon,Mali-G78 MP24,85
+2022-08-11,114,Helio P60,MediaTek,Mali-G72 MP3,28
+2022-08-11,91,Kirin 960,HiSilicon,Mali-G71 MP8,33
+2022-08-11,15,Snapdragon 870,Qualcomm,Adreno 650,78
+2022-08-11,92,Snapdragon 670,Qualcomm,Adreno 615,33
+2022-08-11,85,Snapdragon 675,Qualcomm,Adreno 612,34
+2022-08-11,110,Snapdragon 460,Qualcomm,Adreno 610,29
+2022-08-11,95,Exynos 8890,Samsung,Mali-T880 MP12,32
+2022-08-11,16,Kirin 9000E,HiSilicon,Mali-G78 MP22,78
+2022-08-11,99,Apple A9,Apple,PowerVR GT7600,31
+2022-08-11,18,Snapdragon 865 Plus,Qualcomm,Adreno 650,78
+2022-08-11,97,Snapdragon 662,Qualcomm,Adreno 610,31
+2022-08-11,103,Helio P65,MediaTek,Mali-G52 MC2,30
+2022-08-11,21,Dimensity 8000,MediaTek,Mali-G610 MC6,76
+2022-08-11,100,Snapdragon 821,Qualcomm,Adreno 530,31
+2022-08-11,105,Kirin 710,HiSilicon,Mali-G51 MP4,30
+2022-08-11,22,Snapdragon 865,Qualcomm,Adreno 650,74
+2022-08-11,102,Kirin 710F,HiSilicon,Mali-G51 MP4,30
+2022-08-11,23,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,72
+2022-08-11,107,Tiger T612,Unisoc,Mali-G57 MP1,29
+2022-08-11,29,Snapdragon 855 Plus,Qualcomm,Adreno 640,66
+2022-08-11,120,Helio P35,MediaTek,IMG PowerVR GE8320,25
+2022-08-11,109,Exynos 850,Samsung,Mali-G52 MP1,29
+2022-08-11,30,Kirin 990 (5G),HiSilicon,Mali G76 MP16,65
+2022-08-11,113,Tiger T610,Unisoc,ARM Mali G52 MP2,28
+2022-08-11,33,Snapdragon 855,Qualcomm,Adreno 640,64
+2022-08-11,115,Helio G37,MediaTek,PowerVR GE8320,27
+2022-08-11,35,Kirin 990 (4G),HiSilicon,Mali G76 MP16,62
+2022-08-11,119,Exynos 7904,Samsung,Mali-G71 MP2,25
+2022-08-11,40,Dimensity 1000L,MediaTek,Mali-G77 MC9,57
+2022-08-11,41,Kirin 985,HiSilicon,Mali-G77 MP8,56
+2022-08-11,121,Exynos 7885,Samsung,Mali-G71 MP2,24
+2022-08-11,123,Kirin 950,HiSilicon,Mali-T880 MP4,24
+2022-08-11,46,Snapdragon 768G,Qualcomm,Adreno 620,54
+2022-08-11,47,Dimensity 900,MediaTek,Mali-G68 MC4,53
+2022-08-11,2,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,97
+2022-08-11,52,Dimensity 800U,MediaTek,Mali-G57 MC3,49
+2022-08-11,9,Snapdragon 888,Qualcomm,Adreno 660,90
+2022-08-11,55,Dimensity 810,MediaTek,Mali-G57 MC2,48
+2022-08-11,19,Dimensity 1300,MediaTek,Mali-G77 MC9,77
+2022-08-11,125,Helio G25,MediaTek,IMG PowerVR GE8320,23
+2022-08-11,20,Dimensity 1200,MediaTek,Mali-G77 MC9,77
+2022-08-11,26,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,69
+2022-08-11,28,Snapdragon 860,Qualcomm,Adreno 640,67
+2022-08-11,31,Snapdragon 778G Plus,Qualcomm,Adreno 642L,64
+2022-08-11,32,Snapdragon 780G,Qualcomm,Adreno 642,64
+2022-08-11,34,Snapdragon 778G,Qualcomm,Adreno 642L,62
+2022-08-11,37,Dimensity 920,MediaTek,Mali-G68 MC4,60
+2022-08-11,38,Dimensity 1000,MediaTek,Mali-G77 MP9,60
+2022-08-11,42,Kirin 980,HiSilicon,Mali G76 MP10,56
+2022-08-11,45,Dimensity 820,MediaTek,Mali-G57 MC5,54
+2022-08-11,48,Snapdragon 845,Qualcomm,Adreno 630,52
+2022-08-11,49,Snapdragon 695,Qualcomm,Adreno 619,51
+2022-08-11,54,Snapdragon 765G,Qualcomm,Adreno 620,49
+2022-08-11,59,Dimensity 800,MediaTek,Mali-G57 MC4,46
+2022-08-11,60,Snapdragon 732G,Qualcomm,Adreno 618,45
+2022-08-11,65,Snapdragon 690,Qualcomm,Adreno 619L,44
+2022-08-11,66,Snapdragon 720G,Qualcomm,Adreno 618,44
+2022-08-11,75,Snapdragon 480,Qualcomm,Adreno 619,40
+2022-08-11,76,Snapdragon 680,Qualcomm,Adreno 610,39
+2022-08-11,83,Tiger T618,Unisoc,ARM Mali-G52 MP2,34
+2022-08-11,111,Snapdragon 660,Qualcomm,Adreno 512,29
+2022-08-11,116,Snapdragon 636,Qualcomm,Adreno 509,26
+2022-08-11,117,Snapdragon 632,Qualcomm,Adreno 506,26
+2022-08-11,118,Helio G35,MediaTek,IMG PowerVR GE8320,25
+2022-09-13,79,Snapdragon 680,Qualcomm,Adreno 610,38
+2022-09-13,80,Snapdragon 712,Qualcomm,Adreno 616,38
+2022-09-13,81,Snapdragon 678,Qualcomm,Adreno 612,36
+2022-09-13,82,Snapdragon 710,Qualcomm,Adreno 616,36
+2022-09-13,83,Tiger T618,Unisoc,ARM Mali-G52 MP2,34
+2022-09-13,84,Snapdragon 820,Qualcomm,Adreno 530,34
+2022-09-13,85,Snapdragon 675,Qualcomm,Adreno 612,34
+2022-09-13,86,Helio P90,MediaTek,PowerVR GM9446,34
+2022-09-13,87,Helio G88,MediaTek,Mali-G52 MC2,33
+2022-09-13,88,Helio G85,MediaTek,Mali-G52 MP2,33
+2022-09-13,89,Helio G80,MediaTek,Mali-G52 MP2,33
+2022-09-13,1,A16 Bionic,Apple,Apple GPU,100
+2022-09-13,2,A15 Bionic,Apple,Apple GPU,98
+2022-09-13,3,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,97
+2022-09-13,20,Dimensity 1200,MediaTek,Mali-G77 MC9,77
+2022-09-13,21,Dimensity 1300,MediaTek,Mali-G77 MC9,76
+2022-09-13,22,Dimensity 8000,MediaTek,Mali-G610 MC6,76
+2022-09-13,23,Snapdragon 865,Qualcomm,Adreno 650,74
+2022-09-13,47,Dimensity 900,MediaTek,Mali-G68 MC4,53
+2022-09-13,48,Snapdragon 768G,Qualcomm,Adreno 620,53
+2022-09-13,49,Snapdragon 845,Qualcomm,Adreno 630,52
+2022-09-13,50,Snapdragon 695,Qualcomm,Adreno 619,51
+2022-09-13,55,Dimensity 810,MediaTek,Mali-G57 MC2,48
+2022-09-13,56,Dimensity 800U,MediaTek,Mali-G57 MC3,48
+2022-09-13,57,Snapdragon 765,Qualcomm,Adreno 620,48
+2022-09-13,58,Snapdragon 750G,Qualcomm,Adreno 619,47
+2022-09-13,32,Snapdragon 778G Plus,Qualcomm,Adreno 642L,64
+2022-09-13,33,Snapdragon 780G,Qualcomm,Adreno 642,64
+2022-09-13,34,Snapdragon 855,Qualcomm,Adreno 640,63
+2022-09-13,35,Snapdragon 778G,Qualcomm,Adreno 642L,62
+2022-09-13,40,Exynos 9825,Samsung,Mali G76 MP12,59
+2022-09-13,41,Dimensity 1000L,MediaTek,Mali-G77 MC9,57
+2022-09-13,42,Kirin 985,HiSilicon,Mali-G77 MP8,56
+2022-09-13,63,Snapdragon 480 Plus,Qualcomm,Adreno 619,44
+2022-09-13,64,Dimensity 700,MediaTek,Mali-G57 MC2,44
+2022-09-13,65,Dimensity 720,MediaTek,Mali-G57 MC3,44
+2022-09-13,66,Snapdragon 690,Qualcomm,Adreno 619L,44
+2022-09-13,67,Snapdragon 720G,Qualcomm,Adreno 618,44
+2022-09-13,68,Helio G95,MediaTek,Mali-G76 3EEMC4,43
+2022-09-13,69,Helio G90,MediaTek,Mali-G76 MC4,43
+2022-09-13,70,Snapdragon 730G,Qualcomm,Adreno 618,43
+2022-09-13,71,Helio G96,MediaTek,Mali G57 MC2,42
+2022-09-13,72,Snapdragon 835,Qualcomm,Adreno 540,42
+2022-09-13,73,Snapdragon 730,Qualcomm,Adreno 618,42
+2022-09-13,74,Helio G90T,MediaTek,Mali-G76 MC4,41
+2022-09-13,98,Snapdragon 662,Qualcomm,Adreno 610,31
+2022-09-13,99,Helio G70,MediaTek,Mali-G52 2EEMC2,31
+2022-09-13,100,Apple A9,Apple,PowerVR GT7600,31
+2022-09-13,101,Snapdragon 821,Qualcomm,Adreno 530,31
+2022-09-13,4,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,97
+2022-09-13,5,Dimensity 9000,MediaTek,Mali-G710,96
+2022-09-13,6,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,94
+2022-09-13,7,A14 Bionic,Apple,Apple GPU,92
+2022-09-13,8,Snapdragon 888 Plus,Qualcomm,Adreno 660,91
+2022-09-13,9,Exynos 2200,Samsung,Samsung Xclipse 920,90
+2022-09-13,10,Snapdragon 888,Qualcomm,Adreno 660,90
+2022-09-13,11,Dimensity 8100,MediaTek,Mali-G610 MC6,87
+2022-09-13,12,Google Tensor,Google,Mali-G78 MP20,85
+2022-09-13,13,Kirin 9000,HiSilicon,Mali-G78 MP24,85
+2022-09-13,14,Exynos 2100,Samsung,Mali-G78 MP14,82
+2022-09-13,15,A13 Bionic,Apple,Apple A13 Bionic GPU,81
+2022-09-13,16,Snapdragon 870,Qualcomm,Adreno 650,78
+2022-09-13,17,Kirin 9000E,HiSilicon,Mali-G78 MP22,78
+2022-09-13,18,Exynos 1080,Samsung,Mali-G78 MP10,78
+2022-09-13,19,Snapdragon 865 Plus,Qualcomm,Adreno 650,78
+2022-09-13,36,Kirin 990 (4G),HiSilicon,Mali G76 MP16,61
+2022-09-13,37,Exynos 9820,Samsung,Mali G76 MP12,61
+2022-09-13,38,Dimensity 920,MediaTek,Mali-G68 MC4,59
+2022-09-13,39,Dimensity 1000,MediaTek,Mali-G77 MP9,59
+2022-09-13,43,Kirin 980,HiSilicon,Mali G76 MP10,56
+2022-09-13,44,Exynos 1280,Samsung,Mali-G68,55
+2022-09-13,45,Kirin 820,HiSilicon,Mali-G57 MP6,55
+2022-09-13,46,Dimensity 820,MediaTek,Mali-G57 MC5,54
+2022-09-13,51,A11 Bionic,Apple,Apple GPU,51
+2022-09-13,52,Exynos 9810,Samsung,Mali-G72MP18,50
+2022-09-13,53,Exynos 980,Samsung,Mali G76 MP5,49
+2022-09-13,54,Snapdragon 765G,Qualcomm,Adreno 620,49
+2022-09-13,59,Kirin 810,HiSilicon,Mali-G52 MP6,47
+2022-09-13,60,Dimensity 800,MediaTek,Mali-G57 MC4,46
+2022-09-13,61,Snapdragon 732G,Qualcomm,Adreno 618,45
+2022-09-13,62,Exynos 880,Samsung,Mali G76 MP5,45
+2022-09-13,90,Helio P95,MediaTek,PowerVR GM9446,33
+2022-09-13,91,Exynos 9611,Samsung,Mali-G72 MP3,33
+2022-09-13,92,Kirin 960,HiSilicon,Mali-G71 MP8,33
+2022-09-13,93,Exynos 9609,Samsung,Mali-G72 MP3,32
+2022-09-13,94,Snapdragon 670,Qualcomm,Adreno 615,32
+2022-09-13,95,Exynos 8890,Samsung,Mali-T880 MP12,32
+2022-09-13,96,Tiger T616,Unisoc,Mali-G57 MP1,31
+2022-09-13,97,Tiger T700,Unisoc,ARM Mali-G52 MC2,31
+2022-09-13,102,Snapdragon 665,Qualcomm,Adreno 610,31
+2022-09-13,103,Kirin 710F,HiSilicon,Mali-G51 MP4,30
+2022-09-13,104,Helio P65,MediaTek,Mali-G52 MC2,30
+2022-09-13,105,Helio P70,MediaTek,Mali-G72 MP3,30
+2022-09-13,106,Exynos 9610,Samsung,Mali-G72 MP3,30
+2022-09-13,107,Tiger T612,Unisoc,Mali-G57 MP1,29
+2022-09-13,108,Kirin 710A,HiSilicon,Mali-G51,29
+2022-09-13,109,Exynos 850,Samsung,Mali-G52 MP1,29
+2022-09-13,110,Snapdragon 460,Qualcomm,Adreno 610,29
+2022-09-13,111,Kirin 710,HiSilicon,Mali-G51 MP4,29
+2022-09-13,112,Snapdragon 660,Qualcomm,Adreno 512,29
+2022-09-13,113,Unisoc T606,Unisoc,Mali-G57 MP1,28
+2022-09-13,114,Tiger T610,Unisoc,ARM Mali G52 MP2,28
+2022-09-13,115,Helio P60,MediaTek,Mali-G72 MP3,28
+2022-09-13,116,Helio G37,MediaTek,PowerVR GE8320,26
+2022-09-13,117,Snapdragon 636,Qualcomm,Adreno 509,26
+2022-09-13,118,Snapdragon 632,Qualcomm,Adreno 506,26
+2022-09-13,119,Helio G35,MediaTek,IMG PowerVR GE8320,25
+2022-09-13,120,Exynos 7904,Samsung,Mali-G71 MP2,25
+2022-09-13,121,Helio P35,MediaTek,IMG PowerVR GE8320,25
+2022-09-13,24,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,71
+2022-09-13,25,Dimensity 1100,MediaTek,Mali-G77 MC9,71
+2022-09-13,26,Exynos 990,Samsung,Mali-G77 MP11,71
+2022-09-13,27,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,69
+2022-09-13,28,A12 Bionic,Apple,Apple A12 Bionic GPU,69
+2022-09-13,29,Snapdragon 860,Qualcomm,Adreno 640,67
+2022-09-13,30,Snapdragon 855 Plus,Qualcomm,Adreno 640,66
+2022-09-13,31,Kirin 990 (5G),HiSilicon,Mali G76 MP16,65
+2022-09-13,75,Snapdragon 480,Qualcomm,Adreno 619,40
+2022-09-13,76,A10 Fusion,Apple,PowerVR GT7600,40
+2022-09-13,77,Kirin 970,HiSilicon,Mali G72 MP12,39
+2022-09-13,78,Exynos 8895,Samsung,Mali-G71 MP20,39
+2022-09-13,122,Exynos 7885,Samsung,Mali-G71 MP2,24
+2022-09-13,123,Snapdragon 630,Qualcomm,Adreno 508,24
+2022-09-13,124,Kirin 950,HiSilicon,Mali-T880 MP4,24
+2022-09-13,125,Helio A25,MediaTek,PowerVR GE8320,23
+2022-10-07,7,A14 Bionic,Apple,Apple GPU,92
+2022-10-07,13,Kirin 9000,HiSilicon,Mali-G78 MP24,85
+2022-10-07,15,A13 Bionic,Apple,Apple A13 Bionic GPU,82
+2022-10-07,28,A12 Bionic,Apple,Apple A12 Bionic GPU,68
+2022-10-07,37,Exynos 9820,Samsung,Mali G76 MP12,61
+2022-10-07,40,Exynos 9825,Samsung,Mali G76 MP12,59
+2022-10-07,45,Kirin 820,HiSilicon,Mali-G57 MP6,55
+2022-10-07,51,A11 Bionic,Apple,Apple GPU,51
+2022-10-07,52,Exynos 9810,Samsung,Mali-G72MP18,50
+2022-10-07,56,Snapdragon 765,Qualcomm,Adreno 620,48
+2022-10-07,57,Helio G99,MediaTek,Mali-G57 MC2,47
+2022-10-07,60,Kirin 810,HiSilicon,Mali-G52 MP6,47
+2022-10-07,63,Exynos 880,Samsung,Mali G76 MP5,45
+2022-10-07,74,Helio G96,MediaTek,Mali G57 MC2,41
+2022-10-07,78,Kirin 970,HiSilicon,Mali G72 MP12,39
+2022-10-07,12,Google Tensor,Google,Mali-G78 MP20,85
+2022-10-07,80,Snapdragon 680,Qualcomm,Adreno 610,38
+2022-10-07,88,Helio G88,MediaTek,Mali-G52 MC2,33
+2022-10-07,89,Helio G85,MediaTek,Mali-G52 MP2,33
+2022-10-07,14,Exynos 2100,Samsung,Mali-G78 MP14,82
+2022-10-07,91,Helio P95,MediaTek,PowerVR GM9446,33
+2022-10-07,96,Exynos 8890,Samsung,Mali-T880 MP12,32
+2022-10-07,100,Helio G70,MediaTek,Mali-G52 2EEMC2,31
+2022-10-07,105,Helio P65,MediaTek,Mali-G52 MC2,30
+2022-10-07,25,Exynos 990,Samsung,Mali-G77 MP11,71
+2022-10-07,109,Tiger T612,Unisoc,Mali-G57 MP1,29
+2022-10-07,110,Kirin 710A,HiSilicon,Mali-G51,29
+2022-10-07,115,Tiger T610,Unisoc,ARM Mali G52 MP2,28
+2022-10-07,125,Kirin 950,HiSilicon,Mali-T880 MP4,24
+2022-10-07,4,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,97
+2022-10-07,44,Exynos 1280,Samsung,Mali-G68,55
+2022-10-07,11,Dimensity 8100,MediaTek,Mali-G610 MC6,88
+2022-10-07,16,Dimensity 1300,MediaTek,Mali-G77 MC9,78
+2022-10-07,19,Kirin 9000E,HiSilicon,Mali-G78 MP22,78
+2022-10-07,70,Helio G90,MediaTek,Mali-G76 MC4,43
+2022-10-07,20,Snapdragon 865 Plus,Qualcomm,Adreno 650,78
+2022-10-07,21,Dimensity 8000,MediaTek,Mali-G610 MC6,77
+2022-10-07,93,Kirin 960,HiSilicon,Mali-G71 MP8,33
+2022-10-07,23,Snapdragon 865,Qualcomm,Adreno 650,74
+2022-10-07,24,Dimensity 1100,MediaTek,Mali-G77 MC9,71
+2022-10-07,98,Tiger T700,Unisoc,ARM Mali-G52 MC2,31
+2022-10-07,26,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,70
+2022-10-07,29,Snapdragon 860,Qualcomm,Adreno 640,67
+2022-10-07,117,Helio G37,MediaTek,PowerVR GE8320,26
+2022-10-07,121,Exynos 7904,Samsung,Mali-G71 MP2,25
+2022-10-07,30,Snapdragon 855 Plus,Qualcomm,Adreno 640,66
+2022-10-07,32,Snapdragon 778G Plus,Qualcomm,Adreno 642L,64
+2022-10-07,1,A16 Bionic,Apple,Apple GPU,100
+2022-10-07,3,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,97
+2022-10-07,8,Snapdragon 888 Plus,Qualcomm,Adreno 660,91
+2022-10-07,33,Snapdragon 780G,Qualcomm,Adreno 642,64
+2022-10-07,34,Snapdragon 855,Qualcomm,Adreno 640,63
+2022-10-07,9,Exynos 2200,Samsung,Samsung Xclipse 920,90
+2022-10-07,36,Kirin 990 (4G),HiSilicon,Mali G76 MP16,61
+2022-10-07,42,Kirin 985,HiSilicon,Mali-G77 MP8,56
+2022-10-07,46,Dimensity 820,MediaTek,Mali-G57 MC5,54
+2022-10-07,48,Snapdragon 768G,Qualcomm,Adreno 620,53
+2022-10-07,17,Dimensity 1200,MediaTek,Mali-G77 MC9,78
+2022-10-07,35,Snapdragon 778G,Qualcomm,Adreno 642L,62
+2022-10-07,38,Dimensity 920,MediaTek,Mali-G68 MC4,59
+2022-10-07,49,Snapdragon 845,Qualcomm,Adreno 630,52
+2022-10-07,50,Snapdragon 695,Qualcomm,Adreno 619,51
+2022-10-07,55,Dimensity 800U,MediaTek,Mali-G57 MC3,48
+2022-10-07,58,Dimensity 810,MediaTek,Mali-G57 MC2,47
+2022-10-07,66,Dimensity 720,MediaTek,Mali-G57 MC3,44
+2022-10-07,41,Dimensity 1000L,MediaTek,Mali-G77 MC9,57
+2022-10-07,69,Snapdragon 690,Qualcomm,Adreno 619L,43
+2022-10-07,47,Dimensity 900,MediaTek,Mali-G68 MC4,53
+2022-10-07,71,Snapdragon 730G,Qualcomm,Adreno 618,43
+2022-10-07,81,Snapdragon 712,Qualcomm,Adreno 616,38
+2022-10-07,84,Tiger T618,Unisoc,ARM Mali-G52 MP2,34
+2022-10-07,54,Snapdragon 765G,Qualcomm,Adreno 620,49
+2022-10-07,2,A15 Bionic,Apple,Apple GPU,98
+2022-10-07,67,Snapdragon 720G,Qualcomm,Adreno 618,44
+2022-10-07,76,Snapdragon 480,Qualcomm,Adreno 619,40
+2022-10-07,85,Snapdragon 820,Qualcomm,Adreno 530,34
+2022-10-07,95,Snapdragon 670,Qualcomm,Adreno 615,32
+2022-10-07,86,Snapdragon 675,Qualcomm,Adreno 612,34
+2022-10-07,103,Snapdragon 665,Qualcomm,Adreno 610,31
+2022-10-07,119,Snapdragon 632,Qualcomm,Adreno 506,26
+2022-10-07,102,Snapdragon 821,Qualcomm,Adreno 530,31
+2022-10-07,120,Helio G35,MediaTek,IMG PowerVR GE8320,25
+2022-10-07,124,Snapdragon 630,Qualcomm,Adreno 508,24
+2022-10-07,5,Dimensity 9000,MediaTek,Mali-G710,96
+2022-10-07,10,Snapdragon 888,Qualcomm,Adreno 660,90
+2022-10-07,53,Exynos 980,Samsung,Mali G76 MP5,49
+2022-10-07,77,A10 Fusion,Apple,PowerVR GT7600,40
+2022-10-07,90,Helio G80,MediaTek,Mali-G52 MP2,33
+2022-10-07,106,Helio P70,MediaTek,Mali-G72 MP3,30
+2022-10-07,108,Exynos 9610,Samsung,Mali-G72 MP3,30
+2022-10-07,6,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,94
+2022-10-07,18,Snapdragon 870,Qualcomm,Adreno 650,78
+2022-10-07,27,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,69
+2022-10-07,22,Exynos 1080,Samsung,Mali-G78 MP10,77
+2022-10-07,31,Kirin 990 (5G),HiSilicon,Mali G76 MP16,65
+2022-10-07,39,Dimensity 1000,MediaTek,Mali-G77 MP9,59
+2022-10-07,43,Kirin 980,HiSilicon,Mali G76 MP10,56
+2022-10-07,68,Helio G95,MediaTek,Mali-G76 3EEMC4,43
+2022-10-07,61,Dimensity 800,MediaTek,Mali-G57 MC4,46
+2022-10-07,72,Snapdragon 835,Qualcomm,Adreno 540,42
+2022-10-07,75,Helio G90T,MediaTek,Mali-G76 MC4,41
+2022-10-07,64,Snapdragon 480 Plus,Qualcomm,Adreno 619,44
+2022-10-07,79,Exynos 8895,Samsung,Mali-G71 MP20,39
+2022-10-07,87,Helio P90,MediaTek,PowerVR GM9446,34
+2022-10-07,65,Dimensity 700,MediaTek,Mali-G57 MC2,44
+2022-10-07,92,Exynos 9611,Samsung,Mali-G72 MP3,33
+2022-10-07,73,Snapdragon 730,Qualcomm,Adreno 618,42
+2022-10-07,94,Exynos 9609,Samsung,Mali-G72 MP3,32
+2022-10-07,99,Snapdragon 662,Qualcomm,Adreno 610,31
+2022-10-07,97,Tiger T616,Unisoc,Mali-G57 MP1,31
+2022-10-07,101,Apple A9,Apple,PowerVR GT7600,31
+2022-10-07,107,Kirin 710,HiSilicon,Mali-G51 MP4,30
+2022-10-07,113,Snapdragon 660,Qualcomm,Adreno 512,29
+2022-10-07,111,Exynos 850,Samsung,Mali-G52 MP1,29
+2022-10-07,114,Unisoc T606,Unisoc,Mali-G57 MP1,28
+2022-10-07,116,Helio P60,MediaTek,Mali-G72 MP3,28
+2022-10-07,122,Helio P35,MediaTek,IMG PowerVR GE8320,25
+2022-10-07,123,Exynos 7885,Samsung,Mali-G71 MP2,24
+2022-10-07,59,Snapdragon 750G,Qualcomm,Adreno 619,47
+2022-10-07,62,Snapdragon 732G,Qualcomm,Adreno 618,45
+2022-10-07,82,Snapdragon 678,Qualcomm,Adreno 612,36
+2022-10-07,83,Snapdragon 710,Qualcomm,Adreno 616,36
+2022-10-07,104,Kirin 710F,HiSilicon,Mali-G51 MP4,30
+2022-10-07,112,Snapdragon 460,Qualcomm,Adreno 610,29
+2022-10-07,118,Snapdragon 636,Qualcomm,Adreno 509,26
+2022-09-16,1,A16 Bionic,Apple,Apple GPU,100
+2022-09-16,5,Dimensity 9000,MediaTek,Mali-G710,96
+2022-09-16,13,Kirin 9000,HiSilicon,Mali-G78 MP24,85
+2022-09-16,40,Exynos 9825,Samsung,Mali G76 MP12,59
+2022-09-16,44,Exynos 1280,Samsung,Mali-G68,55
+2022-09-16,52,Exynos 9810,Samsung,Mali-G72MP18,51
+2022-09-16,56,Dimensity 810,MediaTek,Mali-G57 MC2,48
+2022-09-16,83,Helio P90,MediaTek,PowerVR GM9446,35
+2022-09-16,87,Helio G88,MediaTek,Mali-G52 MC2,33
+2022-09-16,91,Exynos 9611,Samsung,Mali-G72 MP3,33
+2022-09-16,95,Exynos 9609,Samsung,Mali-G72 MP3,32
+2022-09-16,99,Helio G70,MediaTek,Mali-G52 2EEMC2,31
+2022-09-16,107,Exynos 9610,Samsung,Mali-G72 MP3,30
+2022-09-16,113,Unisoc T606,Unisoc,Mali-G57 MP1,28
+2022-09-16,115,Helio P60,MediaTek,Mali-G72 MP3,28
+2022-09-16,120,Exynos 7904,Samsung,Mali-G71 MP2,25
+2022-09-16,124,Kirin 950,HiSilicon,Mali-T880 MP4,24
+2022-09-16,125,Helio A25,MediaTek,PowerVR GE8320,23
+2022-09-16,9,Exynos 2200,Samsung,Samsung Xclipse 920,90
+2022-09-16,17,Kirin 9000E,HiSilicon,Mali-G78 MP22,78
+2022-09-16,21,Dimensity 1200,MediaTek,Mali-G77 MC9,77
+2022-09-16,25,Dimensity 1100,MediaTek,Mali-G77 MC9,71
+2022-09-16,36,Kirin 990 (4G),HiSilicon,Mali G76 MP16,61
+2022-09-16,48,Dimensity 900,MediaTek,Mali-G68 MC4,53
+2022-09-16,60,Dimensity 800,MediaTek,Mali-G57 MC4,46
+2022-09-16,64,Dimensity 700,MediaTek,Mali-G57 MC2,44
+2022-09-16,79,Snapdragon 680,Qualcomm,Adreno 610,38
+2022-09-16,103,Kirin 710F,HiSilicon,Mali-G51 MP4,30
+2022-09-16,119,Helio G35,MediaTek,IMG PowerVR GE8320,25
+2022-09-16,121,Helio P35,MediaTek,IMG PowerVR GE8320,25
+2022-09-16,123,Snapdragon 630,Qualcomm,Adreno 508,24
+2022-09-16,2,A15 Bionic,Apple,Apple GPU,98
+2022-09-16,10,Snapdragon 888,Qualcomm,Adreno 660,90
+2022-09-16,12,Google Tensor,Google,Mali-G78 MP20,85
+2022-09-16,14,Exynos 2100,Samsung,Mali-G78 MP14,83
+2022-09-16,28,A12 Bionic,Apple,Apple A12 Bionic GPU,69
+2022-09-16,37,Exynos 9820,Samsung,Mali G76 MP12,61
+2022-09-16,45,Kirin 820,HiSilicon,Mali-G57 MP6,55
+2022-09-16,51,A11 Bionic,Apple,Apple GPU,51
+2022-09-16,68,Helio G95,MediaTek,Mali-G76 3EEMC4,43
+2022-09-16,71,Helio G96,MediaTek,Mali G57 MC2,42
+2022-09-16,72,Helio G90T,MediaTek,Mali-G76 MC4,42
+2022-09-16,75,A10 Fusion,Apple,PowerVR GT7600,41
+2022-09-16,90,Helio P95,MediaTek,PowerVR GM9446,33
+2022-09-16,80,Snapdragon 712,Qualcomm,Adreno 616,38
+2022-09-16,88,Helio G85,MediaTek,Mali-G52 MP2,33
+2022-09-16,94,Tiger T616,Unisoc,Mali-G57 MP1,32
+2022-09-16,15,A13 Bionic,Apple,Apple A13 Bionic GPU,82
+2022-09-16,7,A14 Bionic,Apple,Apple GPU,93
+2022-09-16,92,Kirin 960,HiSilicon,Mali-G71 MP8,33
+2022-09-16,96,Exynos 8890,Samsung,Mali-T880 MP12,32
+2022-09-16,106,Kirin 710,HiSilicon,Mali-G51 MP4,30
+2022-09-16,100,Apple A9,Apple,PowerVR GT7600,31
+2022-09-16,114,Tiger T610,Unisoc,ARM Mali G52 MP2,28
+2022-09-16,110,Exynos 850,Samsung,Mali-G52 MP1,29
+2022-09-16,116,Helio G37,MediaTek,PowerVR GE8320,27
+2022-09-16,4,Snapdragon 8 Plus Gen 1,Qualcomm,Adreno 730,97
+2022-09-16,6,Snapdragon 8 Gen 1,Qualcomm,Adreno 730,94
+2022-09-16,18,Exynos 1080,Samsung,Mali-G78 MP10,78
+2022-09-16,54,Exynos 980,Samsung,Mali G76 MP5,49
+2022-09-16,29,Snapdragon 860,Qualcomm,Adreno 640,67
+2022-09-16,8,Snapdragon 888 Plus,Qualcomm,Adreno 660,91
+2022-09-16,33,Snapdragon 780G,Qualcomm,Adreno 642,64
+2022-09-16,41,Dimensity 1000L,MediaTek,Mali-G77 MC9,57
+2022-09-16,16,Snapdragon 870,Qualcomm,Adreno 650,78
+2022-09-16,49,Snapdragon 845,Qualcomm,Adreno 630,52
+2022-09-16,20,Dimensity 1300,MediaTek,Mali-G77 MC9,77
+2022-09-16,26,Exynos 990,Samsung,Mali-G77 MP11,71
+2022-09-16,58,Kirin 810,HiSilicon,Mali-G52 MP6,48
+2022-09-16,53,Dimensity 800U,MediaTek,Mali-G57 MC3,49
+2022-09-16,24,Snapdragon 7 Gen 1,Qualcomm,Adreno 662,72
+2022-09-16,57,Snapdragon 765,Qualcomm,Adreno 620,48
+2022-09-16,32,Snapdragon 778G Plus,Qualcomm,Adreno 642L,64
+2022-09-16,76,Snapdragon 480,Qualcomm,Adreno 619,40
+2022-09-16,84,Tiger T618,Unisoc,ARM Mali-G52 MP2,34
+2022-09-16,43,Kirin 980,HiSilicon,Mali G76 MP10,56
+2022-09-16,62,Exynos 880,Samsung,Mali G76 MP5,45
+2022-09-16,111,Snapdragon 460,Qualcomm,Adreno 610,29
+2022-09-16,47,Snapdragon 768G,Qualcomm,Adreno 620,54
+2022-09-16,69,Helio G90,MediaTek,Mali-G76 MC4,43
+2022-09-16,55,Snapdragon 765G,Qualcomm,Adreno 620,49
+2022-09-16,59,Snapdragon 750G,Qualcomm,Adreno 619,47
+2022-09-16,63,Snapdragon 480 Plus,Qualcomm,Adreno 619,44
+2022-09-16,78,Exynos 8895,Samsung,Mali-G71 MP20,39
+2022-09-16,77,Kirin 970,HiSilicon,Mali G72 MP12,39
+2022-09-16,67,Snapdragon 720G,Qualcomm,Adreno 618,44
+2022-09-16,86,Snapdragon 675,Qualcomm,Adreno 612,34
+2022-09-16,98,Snapdragon 662,Qualcomm,Adreno 610,31
+2022-09-16,97,Tiger T700,Unisoc,ARM Mali-G52 MC2,31
+2022-09-16,102,Snapdragon 665,Qualcomm,Adreno 610,31
+2022-09-16,89,Helio G80,MediaTek,Mali-G52 MP2,33
+2022-09-16,112,Snapdragon 660,Qualcomm,Adreno 512,29
+2022-09-16,117,Snapdragon 636,Qualcomm,Adreno 509,26
+2022-09-16,105,Helio P70,MediaTek,Mali-G72 MP3,30
+2022-09-16,104,Helio P65,MediaTek,Mali-G52 MC2,30
+2022-09-16,109,Kirin 710A,HiSilicon,Mali-G51,29
+2022-09-16,11,Dimensity 8100,MediaTek,Mali-G610 MC6,88
+2022-09-16,108,Tiger T612,Unisoc,Mali-G57 MP1,29
+2022-09-16,19,Snapdragon 865 Plus,Qualcomm,Adreno 650,78
+2022-09-16,122,Exynos 7885,Samsung,Mali-G71 MP2,24
+2022-09-16,23,Snapdragon 865,Qualcomm,Adreno 650,74
+2022-09-16,3,Dimensity 9000 Plus,MediaTek,Mali-G710 MC10,97
+2022-09-16,27,Dimensity 1000 Plus,MediaTek,Mali-G77 MC9,69
+2022-09-16,22,Dimensity 8000,MediaTek,Mali-G610 MC6,76
+2022-09-16,31,Kirin 990 (5G),HiSilicon,Mali G76 MP16,65
+2022-09-16,30,Snapdragon 855 Plus,Qualcomm,Adreno 640,66
+2022-09-16,35,Snapdragon 778G,Qualcomm,Adreno 642L,62
+2022-09-16,34,Snapdragon 855,Qualcomm,Adreno 640,64
+2022-09-16,39,Dimensity 1000,MediaTek,Mali-G77 MP9,60
+2022-09-16,66,Snapdragon 690,Qualcomm,Adreno 619L,44
+2022-09-16,38,Dimensity 920,MediaTek,Mali-G68 MC4,60
+2022-09-16,70,Snapdragon 730G,Qualcomm,Adreno 618,43
+2022-09-16,42,Kirin 985,HiSilicon,Mali-G77 MP8,56
+2022-09-16,74,Snapdragon 730,Qualcomm,Adreno 618,42
+2022-09-16,46,Dimensity 820,MediaTek,Mali-G57 MC5,54
+2022-09-16,82,Snapdragon 710,Qualcomm,Adreno 616,36
+2022-09-16,50,Snapdragon 695,Qualcomm,Adreno 619,51
+2022-09-16,93,Snapdragon 670,Qualcomm,Adreno 615,33
+2022-09-16,101,Snapdragon 821,Qualcomm,Adreno 530,31
+2022-09-16,61,Snapdragon 732G,Qualcomm,Adreno 618,45
+2022-09-16,65,Dimensity 720,MediaTek,Mali-G57 MC3,44
+2022-09-16,73,Snapdragon 835,Qualcomm,Adreno 540,42
+2022-09-16,81,Snapdragon 678,Qualcomm,Adreno 612,36
+2022-09-16,85,Snapdragon 820,Qualcomm,Adreno 530,34
+2022-09-16,118,Snapdragon 632,Qualcomm,Adreno 506,26
